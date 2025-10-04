@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flea Market</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="logo">
+  <img src="images/logo.png" alt="Logo do brechó">
+    </div>
+    <div class="disclaimer">
+      Entre em contato conosco pelo ícone do Whatsapp<br>
+      Os pagamentos devem ser realizados por Pix ou dinheiro<br>
+      Não aceitamos parcelamentos<br>
+      Não entregamos
+    </div>
+  </header>
+
+  <nav class="categorias">
+    <button onclick="filtrar('todos')">Todos</button>
+    <button onclick="filtrar('eletronicos')">Eletrônicos</button>
+    <button onclick="filtrar('roupas')">Bolsas & Roupas</button>
+    <button onclick="filtrar('instrumentos')">Instrumentos Musicais</button>
+    <button onclick="filtrar('diversos')">Diversos</button>
+  </nav>
+
+  <main id="produtos-container">
+    <!-- Produtos serão inseridos aqui dinamicamente -->
+  </main>
+
+  <!-- Ícones Flutuantes -->
+  <a href="https://wa.me/55SEUNUMERO" class="whatsapp" target="_blank">
+  <img src="images/whatsapp.png"></a>
+  <a href="index.html" class="voltar">🔙</a>
+
+  <script src="script.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Flea Market</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div class="logo">
+      <img src="images/logo.png" alt="Logo do brechó">
+    </div>
+    <div class="disclaimer">
+      Entre em contato conosco pelo ícone do Whatsapp<br>
+      Os pagamentos devem ser realizados por Pix ou dinheiro<br>
+      Não aceitamos parcelamentos<br>
+      Não entregamos
+    </div>
+  </header>
+
+  <nav class="categorias">
+    <button onclick="window.location.href='index.html'">Todos</button>
+    <button onclick="window.location.href='index.html#eletronicos'">Eletrônicos</button>
+    <button onclick="window.location.href='index.html#roupas'">Bolsas & Roupas</button>
+    <button onclick="window.location.href='index.html#instrumentos'">Instrumentos Musicais</button>
+    <button onclick="window.location.href='index.html#diversos'">Diversos</button>
+  </nav>
+
+  <main id="detalhes-produto" class="pagina-item"></main>
+
+  <a href="https://wa.me/55SEUNUMERO" class="whatsapp" target="_blank">
+    <img src="images/whatsapp.png" alt="WhatsApp">
+  </a>
+  <a href="index.html" class="voltar">🔙</a>
+
+  <script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const id = urlParams.get('id');
+
+    fetch('data/products.json')
+      .then(res => res.json())
+      .then(produtos => {
+        const produto = produtos.find(p => p.id === id);
+        const container = document.getElementById('detalhes-produto');
+
+        if (produto) {
+          container.innerHTML = `
+            <div class="detalhes-info esquerda">
+              <h2>${produto.nome}</h2>
+              <p><strong>Estado:</strong> ${produto.estado}</p>
+              <p><strong>Preço:</strong> ${produto.preco}</p>
+              <p><strong>Descrição:</strong> ${produto.descricao || 'Sem descrição disponível.'}</p>
+            </div>
+            <div class="galeria">
+              ${produto.fotos.map(foto => `
+                <img src="images/${foto}" alt="${produto.nome}">
+              `).join('')}
+            </div>
+          `;
+        } else {
+          container.innerHTML = `<p>Produto não encontrado.</p>`;
+        }
+      });
+  </script>
+</body>
+</html>

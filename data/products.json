@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "nome": "Violão Yamaha",
+    "estado": "Usado",
+    "preco": "R$ 450",
+    "categoria": "instrumentos",
+    "descricao": "Violão em ótimo estado, cordas novas e afinado.",
+    "fotos": ["img1a.jpg", "img1b.jpg", "img1c.jpg", "img1d.jpg"]
+  },
+  {
+    "id": "2",
+    "nome": "Pratos para bateria",
+    "estado": "Usado",
+    "preco": "R$ 2000",
+    "categoria": "instrumentos",
+    "descricao": "1 Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha Case para transporte.",
+    "fotos": ["prato1.jpeg", "prato2.jpeg", "prato3.jpeg", "prato4.jpeg"]
+  },
+  {
+    "id": "3",
+    "nome": "Caixa termica",
+    "estado": "Usada",
+    "preco": "R$ 80",
+    "categoria": "diversos",
+    "descricao": "Caixa Térmica 34 Litros Azul Mor - Possui tampa com trava removível, porta copos e objetos; Alça para facilitar o transporte; Dimensão interna da caixa térmica: 39,5 cm x 27,5 cm x 34 cm. Capacidade para: Latinha: 50 unidades de 350 ml / Garrafa pet: 7 unidades de 2L",
+    "fotos": ["caixa_termica1.jpg", "caixa_termica2.jpg", "caixa_termica3.jpg", "caixa_termica4.jpg"]
+  }
+]
