@@ -1,12 +1,12 @@
 [
   {
     "id": "1",
-    "nome": "Violão Yamaha",
-    "estado": "Usado",
-    "preco": "R$ 450",
-    "categoria": "instrumentos",
-    "descricao": "Violão em ótimo estado, cordas novas e afinado.",
-    "fotos": ["img1a.jpg", "img1b.jpg", "img1c.jpg", "img1d.jpg"]
+    "nome": "Jogo de jantar portugal",
+    "estado": "Novo",
+    "preco": "R$ xxx",
+    "categoria": "cozinha",
+    "descricao": "Jogo de jantar portugal com xx peças, porlcelana branca e detalhes em azul.",
+    "fotos": ["jantar_azul_1.jpg", "jantar_azul_2.jpg", "jantar_azul_3.jpg", "jantar_azul_4.jpg"]
   },
   {
     "id": "2",
