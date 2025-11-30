@@ -21,11 +21,11 @@
 
   <nav class="categorias">
     <button onclick="window.location.href='index.html'">Todos</button>
-    <button onclick="window.location.href='index.html#cozinha'">Cozinha</button>
-    <button onclick="window.location.href='index.html#eletronicos'">Eletrônicos</button>
-    <button onclick="window.location.href='index.html#roupas'">Bolsas & Roupas</button>
-    <button onclick="window.location.href='index.html#instrumentos'">Instrumentos Musicais</button>
-    <button onclick="window.location.href='index.html#diversos'">Diversos</button>
+    <button onclick="window.location.href='index.html?categoria=cozinha'">Cozinha</button>
+    <button onclick="window.location.href='index.html?categoria=eletronicos'">Eletrônicos</button>
+    <button onclick="window.location.href='index.html?categoria=roupas'">Bolsas & Roupas</button>
+    <button onclick="window.location.href='index.html?categoria=instrumentos'">Instrumentos Musicais</button>
+    <button onclick="window.location.href='index.html?categoria=diversos'">Diversos</button>
   </nav>
 
   <main id="detalhes-produto" class="pagina-item"></main>
@@ -62,6 +62,10 @@
         } else {
           container.innerHTML = `<p>Produto não encontrado.</p>`;
         }
+      })
+      .catch(error => {
+        console.error('Erro ao carregar produto:', error);
+        document.getElementById('detalhes-produto').innerHTML = `<p>Erro ao carregar produto.</p>`;
       });
   </script>
 </body>
