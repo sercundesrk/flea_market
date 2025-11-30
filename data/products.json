@@ -25,5 +25,41 @@
     "categoria": "diversos",
     "descricao": "Caixa Térmica 34 Litros Azul Mor - Possui tampa com trava removível, porta copos e objetos; Alça para facilitar o transporte; Dimensão interna da caixa térmica: 39,5 cm x 27,5 cm x 34 cm. Capacidade para: Latinha: 50 unidades de 350 ml / Garrafa pet: 7 unidades de 2L",
     "fotos": ["caixa_termica1.jpg", "caixa_termica2.jpg", "caixa_termica3.jpg", "caixa_termica4.jpg"]
+  },
+  {
+    "id": "4",
+    "nome": "Cortador de vegetais",
+    "estado": "Usado",
+    "preco": "R$ xx",
+    "categoria": "cozinha",
+    "descricao": ".",
+    "fotos": ["cortador_1.jpg", "cortador_2.jpg", "cortador_3.jpg", "cortador_4.jpg"]
+  },
+  {
+    "id": "5",
+    "nome": "Faqueiro Bellagio",
+    "estado": "Novo",
+    "preco": "R$ xx",
+    "categoria": "cozinha",
+    "descricao": "Faqueiro Bellagio 24 peças.",
+    "fotos": ["faqueirob_1.jpg", "faqueirob_2.jpg", "faqueirob_3.jpg", "faqueirob_4.jpg"]
+  },
+  {
+    "id": "6",
+    "nome": "Conjunto de bowls",
+    "estado": "Usado",
+    "preco": "R$ xx",
+    "categoria": "cozinha",
+    "descricao": "Conjunto de 6 bowls pretos em ceramica.",
+    "fotos": ["bowls_1.jpg", "bowls_2.jpg", "bowls_3.jpg", "bowls_4.jpg"]
+  },
+  {
+    "id": "7",
+    "nome": "Aparelho foundue elétrico",
+    "estado": "Novo",
+    "preco": "R$ xx",
+    "categoria": "cozinha",
+    "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável. Acompanha 8 garfos e bandeja de suporte",
+    "fotos": ["foundue_1.jpg", "foundue_2.jpg", "foundue_3.jpg", "foundue_4.jpg"]
   }
 ]
