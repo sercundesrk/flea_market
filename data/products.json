@@ -14,13 +14,13 @@
     "estado": "Usado",
     "preco": "R$ 2000",
     "categoria": "instrumentos",
-    "descricao": "1 Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha Case para transporte.",
+    "descricao": "Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha Case para transporte.",
     "fotos": ["prato1.jpeg", "prato2.jpeg", "prato3.jpeg", "prato4.jpeg"]
   },
   {
     "id": "3",
     "nome": "Caixa termica",
-    "estado": "Usada",
+    "estado": "Usado",
     "preco": "R$ 80",
     "categoria": "diversos",
     "descricao": "Caixa Térmica 34 Litros Azul Mor - Possui tampa com trava removível, porta copos e objetos; Alça para facilitar o transporte; Dimensão interna da caixa térmica: 39,5 cm x 27,5 cm x 34 cm. Capacidade para: Latinha: 50 unidades de 350 ml / Garrafa pet: 7 unidades de 2L",
@@ -32,7 +32,7 @@
     "estado": "Usado",
     "preco": "R$ xx",
     "categoria": "cozinha",
-    "descricao": ".",
+    "descricao": "Cortador de vegetais xxx",
     "fotos": ["cortador_1.jpg", "cortador_2.jpg", "cortador_3.jpg", "cortador_4.jpg"]
   },
   {
@@ -61,5 +61,32 @@
     "categoria": "cozinha",
     "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável. Acompanha 8 garfos e bandeja de suporte",
     "fotos": ["foundue_1.jpg", "foundue_2.jpg", "foundue_3.jpg", "foundue_4.jpg"]
+  },
+  {
+    "id": "8",
+    "nome": "Caixa terminca x litros",
+    "estado": "Usado",
+    "preco": "R$ xx",
+    "categoria": "diversos",
+    "descricao": "Caixa térmica x litros usada, ideal para manter bebidas e alimentos frescos em passeios e eventos.",
+    "fotos": ["caixa_termica_1.jpg", "caixa_termica_2.jpg", "caixa_termica_3.jpg", "caixa_termica_4.jpg"]
+  },
+  {
+    "id": "9",
+    "nome": "Jogo de xícaras de chá",
+    "estado": "Usado",
+    "preco": "R$ xx",
+    "categoria": "cozinha",
+    "descricao": "Jogo de xícaras, ideal para servir chá com elegância e estilo.",
+    "fotos": ["xicaras_1.jpg", "xicaras_2.jpg", "xicaras_3.jpg", "xicaras_4.jpg"]
+  },
+  {
+    "id": "10",
+    "nome": "Aspirador de pó",
+    "estado": "Usado",
+    "preco": "R$ xx",
+    "categoria": "eletrodomésticos",
+    "descricao": "Aspirador de pó usado, ideal para manter a casa limpa e livre de poeira.",
+    "fotos": ["aspirador_1.jpg", "aspirador_2.jpg", "aspirador_3.jpg", "aspirador_4.jpg"]
   }
 ]
