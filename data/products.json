@@ -78,7 +78,7 @@
     "preco": "R$ xx",
     "categoria": "cozinha",
     "descricao": "Jogo de xícaras, ideal para servir chá com elegância e estilo.",
-    "fotos": ["xicaras_1.jpg", "xicaras_2.jpg", "xicaras_3.jpg", "xicaras_4.jpg"]
+    "fotos": ["xicara_1.jpg", "xicara_2.jpg", "xicara_3.jpg", "xicara_4.jpg"]
   },
   {
     "id": "10",

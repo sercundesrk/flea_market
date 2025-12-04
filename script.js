@@ -4,7 +4,16 @@ fetch('data/products.json')
   .then(res => res.json())
   .then(data => {
     produtos = data;
-    mostrarProdutos(produtos);
+    
+    // Handle URL parameters for category filtering
+    const urlParams = new URLSearchParams(window.location.search);
+    const categoria = urlParams.get('categoria');
+    
+    if (categoria) {
+      filtrar(categoria);
+    } else {
+      mostrarProdutos(produtos);
+    }
   });
 
 function mostrarProdutos(lista) {
