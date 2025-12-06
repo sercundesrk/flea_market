@@ -13,7 +13,7 @@
     "nome": "Pratos para bateria",
     "estado": "Usado",
     "preco": "R$ 2000",
-    "categoria": "instrumentos",
+    "categoria": "diversos",
     "descricao": "Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha Case para transporte.",
     "fotos": ["prato1.jpeg", "prato2.jpeg", "prato3.jpeg", "prato4.jpeg"]
   },
@@ -85,7 +85,7 @@
     "nome": "Aspirador de pó",
     "estado": "Usado",
     "preco": "R$ xx",
-    "categoria": "eletrodomésticos",
+    "categoria": "eletrodomesticos",
     "descricao": "Aspirador de pó usado, ideal para manter a casa limpa e livre de poeira.",
     "fotos": ["aspirador_1.jpg", "aspirador_2.jpg", "aspirador_3.jpg", "aspirador_4.jpg"]
   },
@@ -94,7 +94,7 @@
     "nome": "Ferro de passar roupa Philco",
     "estado": "Novo",
     "preco": "R$ xxx",
-    "categoria": "eletrodomésticos",
+    "categoria": "eletrodomesticos",
     "descricao": "dddddd.",
     "fotos": ["ferro_1.jpg", "ferro_2.jpg", "ferro_3.jpg", "ferro_4.jpg"]
   },
@@ -109,10 +109,10 @@
   },
   {
     "id": "13",
-    "nome": "Multiprocessador de alimentos Philco",
+    "nome": "Multiprocessador de alimentos Walita",
     "estado": "Novo",
     "preco": "R$ xxx",
-    "categoria": "eletrodomésticos",
+    "categoria": "eletrodomesticos",
     "descricao": "dddddd.",
     "fotos": ["multiprocessador_1.jpg", "multiprocessador_2.jpg", "multiprocessador_3.jpg", "multiprocessador_4.jpg"]
   },
@@ -150,7 +150,7 @@
     "preco": "R$ xxx",
     "categoria": "cozinha",
     "descricao": "Jogo de 6 copos e 1 jarra de vidro.",
-    "fotos": ["suco_1.jpg", "suco_2.jpg", "suco_3.jpg", "suco_4.jpg"]
+    "fotos": ["jogosuco_1.jpg", "jogosuco_2.jpg", "jogosuco_3.jpg", "jogosuco_4.jpg"]
   },
   {
     "id": "18",
@@ -258,7 +258,7 @@
     "preco": "R$ xxx",
     "categoria": "moveis",
     "descricao": "Gabinete de banheiro com rodinha e porta, ideal para organizar seus itens de higiene e beleza.",
-    "fotos": ["armariobanheiro_1.jpg", "armariobanheiro_2.jpg", "armariobanheiro_3.jpg", "armariobanheiro_4.jpg"]
+    "fotos": ["armpiabanheiro_1.jpg", "armpiabanheiro_2.jpg", "armpiabanheiro_3.jpg", "armpiabanheiro_4.jpg"]
   },
   {
     "id": "30",
