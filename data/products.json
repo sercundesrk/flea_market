@@ -64,7 +64,7 @@
   },
   {
     "id": "8",
-    "nome": "Caixa terminca x litros",
+    "nome": "Caixa térmica x litros",
     "estado": "Usado",
     "preco": "R$ xx",
     "categoria": "diversos",
@@ -205,5 +205,95 @@
     "categoria": "cozinha",
     "descricao": "Petisqueira de vidro nova, ideal para servir petiscos com elegância.",
     "fotos": ["petisco_1.jpg", "petisco_2.jpg", "petisco_3.jpg", "petisco_4.jpg"]
+  },
+  {
+    "id": "24",
+    "nome": "Conjunto de pratos roxo e rosa",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "cozinha",
+    "descricao": "Conjunto de pratos em tons de roxo e rosa (8 peças), ideais para dar um toque colorido à sua mesa.",
+    "fotos": ["pratoroxo_1.jpg", "pratoroxo_2.jpg", "pratoroxo_3.jpg"]
+  },
+  {
+    "id": "25",
+    "nome": "Bowls brancos",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "cozinha",
+    "descricao": "Conjunto de 4 bowls brancos em cerâmica.",
+    "fotos": ["bowlsbranco_1.jpg", "bowlsbranco_2.jpg"]
+  },
+  {
+    "id": "26",
+    "nome": "Conjunto de xícaras brancas",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "cozinha",
+    "descricao": "Conjunto de 12 peças de xícaras brancas em cerâmica.",
+    "fotos": ["xicarabranca_1.jpg"]
+  },
+  {
+    "id": "27",
+    "nome": "Jogo de mesa em branco e preto",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "cozinha",
+    "descricao": "Conjunto de pratos rasos, fundos, xícaras e pires em tons de branco e preto (25 peças), ideais para dar um toque elegante à sua mesa.",
+    "fotos": ["pratosbp_1.jpg", "pratosbp_2.jpg", "pratosbp_3.jpg", "pratosbp_4.jpg", "pratosbp_5.jpg"]
+  },
+  {
+    "id": "28",
+    "nome": "Sapateira de madeira",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Sapateira de madeira usada, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
+    "fotos": ["sapateira_1.png", "sapateira_2.png", "sapateira_3.png", "sapateira_4.png"]
+  },
+  {
+    "id": "29",
+    "nome": "Gabinete de banheiro com rodinha e porta",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Gabinete de banheiro com rodinha e porta, ideal para organizar seus itens de higiene e beleza.",
+    "fotos": ["armariobanheiro_1.jpg", "armariobanheiro_2.jpg", "armariobanheiro_3.jpg", "armariobanheiro_4.jpg"]
+  },
+  {
+    "id": "30",
+    "nome": "Armario de banheiro com espelho",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Armario de banheiro com espelho e divisórias, ideal para organizar seus itens de higiene e beleza.",
+    "fotos": ["armariobanheiro2_1.jpg", "armariobanheiro2_2.jpg", "armariobanheiro2_3.jpg"]
+  },
+  {
+    "id": "31",
+    "nome": "Penteadeira com espelho e porta",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Penteadeira com espelho e porta, ideal para organizar seus itens de beleza.",
+    "fotos": ["penteadeira_1.jpg", "penteadeira_2.jpg", "penteadeira_3.jpg", "penteadeira_4.jpg"]
+  },
+  {
+    "id": "32",
+    "nome": "Aparador adega retro off white",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Aparador adega retro off white usado, ideal para armazenar e exibir suas bebidas com estilo.",
+    "fotos": ["adega_1.jpg", "adega_2.jpg", "adega_3.jpg", "adega_4.jpg"]
+  },
+  {
+    "id": "33",
+    "nome": "Livreiro branco de madeira",
+    "estado": "Usado",
+    "preco": "R$ xxx",
+    "categoria": "moveis",
+    "descricao": "Livreiro branco de madeira usado, ideal para organizar seus livros com estilo.",
+    "fotos": ["livreiro_1.jpg", "livreiro_2.jpg", "livreiro_3.jpg", "livreiro_4.jpg"]
   }
 ]
