@@ -1,398 +1,607 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "nome": "Jogo de jantar portugal",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 260,
     "categoria": "cozinha",
     "descricao": "Jogo de jantar portugal com 16 peças, porcelana branca e detalhes em azul.",
-    "fotos": ["jantar_azul_1.jpg", "jantar_azul_2.jpg", "jantar_azul_3.jpg", "jantar_azul_4.jpg"]
+    "fotos": [
+      "jantar_azul_1.jpg",
+      "jantar_azul_2.jpg",
+      "jantar_azul_3.jpg",
+      "jantar_azul_4.jpg"
+    ]
   },
   {
-    "id": "2",
+    "id": 2,
     "nome": "Pratos para bateria",
     "estado": "Usado",
-    "preco": "R$ 2000",
+    "preco": 2000,
     "categoria": "diversos",
     "descricao": "Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha bag para transporte.",
-    "fotos": ["prato1.jpg", "prato2.jpg", "prato3.jpg", "prato4.jpg"]
+    "fotos": [
+      "prato1.jpg",
+      "prato2.jpg",
+      "prato3.jpg",
+      "prato4.jpg"
+    ]
   },
   {
-    "id": "3",
+    "id": 3,
     "nome": "Caixa termica 34L",
     "estado": "Usado",
-    "preco": "R$ 80",
+    "preco": 60,
     "categoria": "diversos",
     "descricao": "Caixa Térmica 34 Litros Azul Mor - Possui tampa com trava removível, porta copos e objetos; Alça para facilitar o transporte; Dimensão interna da caixa térmica: 39,5 cm x 27,5 cm x 34 cm. Capacidade para: Latinha: 50 unidades de 350 ml / Garrafa pet: 7 unidades de 2L",
-    "fotos": ["caixa_termica1.jpg", "caixa_termica2.jpg", "caixa_termica3.jpg", "caixa_termica4.jpg"]
+    "fotos": [
+      "caixa_termica1.jpg",
+      "caixa_termica2.jpg",
+      "caixa_termica3.jpg",
+      "caixa_termica4.jpg"
+    ]
   },
   {
-    "id": "4",
+    "id": 4,
     "nome": "Cortador de vegetais",
     "estado": "Usado",
-    "preco": "R$ xx",
+    "preco": 40,
     "categoria": "cozinha",
     "descricao": "Cortador de vegetais Itabras com 3 pés de apoio.",
-    "fotos": ["cortador_1.jpg", "cortador_2.jpg", "cortador_3.jpg", "cortador_4.jpg"]
+    "fotos": [
+      "cortador_1.jpg",
+      "cortador_2.jpg",
+      "cortador_3.jpg",
+      "cortador_4.jpg"
+    ]
   },
   {
-    "id": "5",
+    "id": 5,
     "nome": "Faqueiro Bellagio",
     "estado": "Novo",
-    "preco": "R$ xx",
+    "preco": 130,
     "categoria": "cozinha",
     "descricao": "Faqueiro Bellagio 24 peças em inox.",
-    "fotos": ["faqueirob_1.jpg", "faqueirob_2.jpg", "faqueirob_3.jpg", "faqueirob_4.jpg"]
+    "fotos": [
+      "faqueirob_1.jpg",
+      "faqueirob_2.jpg",
+      "faqueirob_3.jpg",
+      "faqueirob_4.jpg"
+    ]
   },
   {
-    "id": "6",
+    "id": 6,
     "nome": "Conjunto de bowls",
     "estado": "Usado",
-    "preco": "R$ xx",
+    "preco": 100,
     "categoria": "cozinha",
     "descricao": "Conjunto de 6 bowls pretos em cerâmica.",
-    "fotos": ["bowls_1.jpg", "bowls_2.jpg", "bowls_3.jpg", "bowls_4.jpg"]
+    "fotos": [
+      "bowls_1.jpg",
+      "bowls_2.jpg",
+      "bowls_3.jpg",
+      "bowls_4.jpg"
+    ]
   },
   {
-    "id": "7",
+    "id": 7,
     "nome": "Aparelho foundue elétrico",
     "estado": "Novo",
-    "preco": "R$ xx",
+    "preco": 180,
     "categoria": "cozinha",
     "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável, xxV. Acompanha 8 garfos e bandeja de suporte",
-    "fotos": ["foundue_1.jpg", "foundue_2.jpg", "foundue_3.jpg", "foundue_4.jpg"]
+    "fotos": [
+      "foundue_1.jpg",
+      "foundue_2.jpg",
+      "foundue_3.jpg",
+      "foundue_4.jpg"
+    ]
   },
   {
-    "id": "8",
+    "id": 8,
     "nome": "Caixa térmica x litros",
     "estado": "Usado",
-    "preco": "R$ xx",
+    "preco": 40,
     "categoria": "diversos",
     "descricao": "Caixa térmica x litros usada, ideal para manter bebidas e alimentos frescos em passeios e eventos.",
-    "fotos": ["caixa_termica_1.jpg", "caixa_termica_2.jpg", "caixa_termica_3.jpg", "caixa_termica_4.jpg"]
+    "fotos": [
+      "caixa_termica_1.jpg",
+      "caixa_termica_2.jpg",
+      "caixa_termica_3.jpg",
+      "caixa_termica_4.jpg"
+    ]
   },
   {
-    "id": "9",
+    "id": 9,
     "nome": "Conjunto de xícaras de café",
     "estado": "Usado",
-    "preco": "R$ xx",
+    "preco": 95,
     "categoria": "cozinha",
     "descricao": "Jogo de xicaras e pires para café com 12 peças.",
-    "fotos": ["xicara_1.jpg", "xicara_2.jpg", "xicara_3.jpg", "xicara_4.jpg"]
+    "fotos": [
+      "xicara_1.jpg",
+      "xicara_2.jpg",
+      "xicara_3.jpg",
+      "xicara_4.jpg"
+    ]
   },
   {
-    "id": "10",
+    "id": 10,
     "nome": "Aspirador de pó",
     "estado": "Usado",
-    "preco": "R$ xx",
+    "preco": 150,
     "categoria": "eletrodomesticos",
     "descricao": "Aspirador de pó Black+Decker 1200w, xxV, com acesssórios. Ideal para manter a casa limpa e livre de poeira.",
-    "fotos": ["aspirador_1.jpg", "aspirador_2.jpg", "aspirador_3.jpg", "aspirador_4.jpg"]
+    "fotos": [
+      "aspirador_1.jpg",
+      "aspirador_2.jpg",
+      "aspirador_3.jpg",
+      "aspirador_4.jpg"
+    ]
   },
   {
-    "id": "11",
+    "id": 11,
     "nome": "Ferro de passar roupa Philco",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 100,
     "categoria": "eletrodomesticos",
     "descricao": "Ferro de passar Philco, xxV, base de cerâmica, passa na vertical com múltiplas saídas de vapor.",
-    "fotos": ["ferro_1.jpg", "ferro_2.jpg", "ferro_3.jpg", "ferro_4.jpg"]
+    "fotos": [
+      "ferro_1.jpg",
+      "ferro_2.jpg",
+      "ferro_3.jpg",
+      "ferro_4.jpg"
+    ]
   },
   {
-    "id": "12",
+    "id": 12,
     "nome": "Caixa de ferramentas de plástico",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 70,
     "categoria": "diversos",
     "descricao": "Caixa de ferramentas de plástico, com divisória interna.",
-    "fotos": ["cpferramentas_1.jpg", "cpferramentas_2.jpg", "cpferramentas_3.jpg", "cpferramentas_4.jpg"]
+    "fotos": [
+      "cpferramentas_1.jpg",
+      "cpferramentas_2.jpg",
+      "cpferramentas_3.jpg",
+      "cpferramentas_4.jpg"
+    ]
   },
   {
-    "id": "13",
+    "id": 13,
     "nome": "Multiprocessador de alimentos Walita",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 290,
     "categoria": "eletrodomesticos",
     "descricao": "Multiprocessador de alimentos Walita, xxV, com múltiplas funções para facilitar o preparo de suas receitas.",
-    "fotos": ["multiprocessador_1.jpg", "multiprocessador_2.jpg", "multiprocessador_3.jpg", "multiprocessador_4.jpg"]
+    "fotos": [
+      "multiprocessador_1.jpg",
+      "multiprocessador_2.jpg",
+      "multiprocessador_3.jpg",
+      "multiprocessador_4.jpg"
+    ]
   },
   {
-    "id": "14",
+    "id": 14,
     "nome": "Mesa de centro",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 100,
     "categoria": "diversos",
     "descricao": "Mesa de centro de xx nas dimensoes L x C x A.",
-    "fotos": ["mesa_1.jpg", "mesa_2.jpg", "mesa_3.jpg", "mesa_4.jpg"]
+    "fotos": [
+      "mesa_1.jpg",
+      "mesa_2.jpg",
+      "mesa_3.jpg",
+      "mesa_4.jpg"
+    ]
   },
   {
-    "id": "15",
+    "id": 15,
     "nome": "Caixa de ferramentas de metal",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 200,
     "categoria": "diversos",
     "descricao": "Caixa de ferramentas de metal Tramontina, com 7 compartimentos internos para organização e algumas ferramentas (não garantimos todas as ferramentas da foto).",
-    "fotos": ["cmferramentas_1.jpg", "cmferramentas_2.jpg", "cmferramentas_3.jpg", "cmferramentas_4.jpg"]
+    "fotos": [
+      "cmferramentas_1.jpg",
+      "cmferramentas_2.jpg",
+      "cmferramentas_3.jpg",
+      "cmferramentas_4.jpg"
+    ]
   },
   {
-    "id": "16",
+    "id": 16,
     "nome": "Vaso cinza de plástico",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 50,
     "categoria": "diversos",
     "descricao": "Vaso decorativo de plático nas dimensões xx.",
-    "fotos": ["vaso_1.jpg", "vaso_2.jpg", "vaso_3.jpg", "vaso_4.jpg"]
+    "fotos": [
+      "vaso_1.jpg",
+      "vaso_2.jpg",
+      "vaso_3.jpg",
+      "vaso_4.jpg"
+    ]
   },
   {
-    "id": "17",
+    "id": 17,
     "nome": "Jarra e copos de vidro - 7 peças",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 130,
     "categoria": "cozinha",
     "descricao": "Jogo de 6 copos e 1 jarra de vidro.",
-    "fotos": ["jogosuco_1.jpg", "jogosuco_2.jpg", "jogosuco_3.jpg", "jogosuco_4.jpg"]
+    "fotos": [
+      "jogosuco_1.jpg",
+      "jogosuco_2.jpg",
+      "jogosuco_3.jpg",
+      "jogosuco_4.jpg"
+    ]
   },
   {
-    "id": "18",
+    "id": 18,
     "nome": "Conjunto para massas - 2 peças",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 60,
     "categoria": "cozinha",
     "descricao": "Conjunto para massas com 2 peças.",
-    "fotos": ["massa_1.jpg", "massa_2.jpg", "massa_3.jpg", "massa_4.jpg"]
+    "fotos": [
+      "massa_1.jpg",
+      "massa_2.jpg",
+      "massa_3.jpg",
+      "massa_4.jpg"
+    ]
   },
   {
-    "id": "19",
+    "id": 19,
     "nome": "Protetores de quina",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 50,
     "categoria": "diversos",
     "descricao": "Protetores de quina para segurança doméstica.",
-    "fotos": ["protetor_1.jpg", "protetor_2.jpg", "protetor_3.jpg", "protetor_4.jpg"]
+    "fotos": [
+      "protetor_1.jpg",
+      "protetor_2.jpg",
+      "protetor_3.jpg",
+      "protetor_4.jpg"
+    ]
   },
   {
-    "id": "20",
+    "id": 20,
     "nome": "Jogo de cama queen size",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 250,
     "categoria": "diversos",
     "descricao": "Jogo de cama queen size novo, confortável e de alta qualidade.",
-    "fotos": ["jcama_1.jpg", "jcama_2.jpg", "jcama_3.jpg", "jcama_4.jpg"]
+    "fotos": [
+      "jcama_1.jpg",
+      "jcama_2.jpg",
+      "jcama_3.jpg",
+      "jcama_4.jpg"
+    ]
   },
   {
-    "id": "21",
+    "id": 21,
     "nome": "Vaso de vidro decorativo",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 100,
     "categoria": "diversos",
     "descricao": "Vaso de vidro decorativo, ideal para complementar a decoração da sua casa.",
-    "fotos": ["vasovidro_1.jpg", "vasovidro_2.jpg", "vasovidro_3.jpg", "vasovidro_4.jpg"]
+    "fotos": [
+      "vasovidro_1.jpg",
+      "vasovidro_2.jpg",
+      "vasovidro_3.jpg",
+      "vasovidro_4.jpg"
+    ]
   },
   {
-    "id": "22",
+    "id": 22,
     "nome": "Assento de elevação",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 90,
     "categoria": "diversos",
     "descricao": "Assento de elevação, ideal para proporcionar conforto e segurança para crianças.",
-    "fotos": ["elev_1.jpg", "elev_2.jpg", "elev_3.jpg", "elev_4.jpg"]
+    "fotos": [
+      "elev_1.jpg",
+      "elev_2.jpg",
+      "elev_3.jpg",
+      "elev_4.jpg"
+    ]
   },
   {
-    "id": "23",
+    "id": 23,
     "nome": "Petisqueira de vidro",
     "estado": "Novo",
-    "preco": "R$ xxx",
+    "preco": 70,
     "categoria": "cozinha",
     "descricao": "Petisqueira de vidro nova, ideal para servir petiscos com elegância.",
-    "fotos": ["petisco_1.jpg", "petisco_2.jpg", "petisco_3.jpg", "petisco_4.jpg"]
+    "fotos": [
+      "petisco_1.jpg",
+      "petisco_2.jpg",
+      "petisco_3.jpg",
+      "petisco_4.jpg"
+    ]
   },
   {
-    "id": "24",
+    "id": 24,
     "nome": "Conjunto de pratos roxo e rosa",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 120,
     "categoria": "cozinha",
     "descricao": "Conjunto de pratos em tons de roxo e rosa (8 peças), ideais para dar um toque colorido à sua mesa.",
-    "fotos": ["pratoroxo_1.jpg", "pratoroxo_2.jpg", "pratoroxo_3.jpg"]
+    "fotos": [
+      "pratoroxo_1.jpg",
+      "pratoroxo_2.jpg",
+      "pratoroxo_3.jpg"
+    ]
   },
   {
-    "id": "25",
+    "id": 25,
     "nome": "Bowls brancos",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 85,
     "categoria": "cozinha",
     "descricao": "Conjunto de 4 bowls brancos em cerâmica.",
-    "fotos": ["bowlsbranco_1.jpg", "bowlsbranco_2.jpg"]
+    "fotos": [
+      "bowlsbranco_1.jpg",
+      "bowlsbranco_2.jpg"
+    ]
   },
   {
-    "id": "26",
+    "id": 26,
     "nome": "Conjunto de xícaras brancas",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 100,
     "categoria": "cozinha",
     "descricao": "Conjunto de 12 peças de xícaras e pires brancos em cerâmica.",
-    "fotos": ["xicarabranca_1.jpg"]
+    "fotos": [
+      "xicarabranca_1.jpg"
+    ]
   },
   {
-    "id": "27",
+    "id": 27,
     "nome": "Jogo de mesa em branco e preto",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 270,
     "categoria": "cozinha",
     "descricao": "Conjunto de pratos rasos, fundos, xícaras e pires em tons de branco e preto (25 peças), ideais para dar um toque elegante à sua mesa.",
-    "fotos": ["pratosbp_1.jpg", "pratosbp_2.jpg", "pratosbp_3.jpg", "pratosbp_4.jpg", "pratosbp_5.jpg"]
+    "fotos": [
+      "pratosbp_1.jpg",
+      "pratosbp_2.jpg",
+      "pratosbp_3.jpg",
+      "pratosbp_4.jpg",
+      "pratosbp_5.jpg"
+    ]
   },
   {
-    "id": "28",
+    "id": 28,
     "nome": "Sapateira de madeira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 180,
     "categoria": "moveis",
     "descricao": "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
-    "fotos": ["sapateira_1.jpg", "sapateira_2.jpg", "sapateira_3.jpg", "sapateira_4.jpg"]
+    "fotos": [
+      "sapateira_1.jpg",
+      "sapateira_2.jpg",
+      "sapateira_3.jpg",
+      "sapateira_4.jpg"
+    ]
   },
   {
-    "id": "29",
+    "id": 29,
     "nome": "Gabinete de banheiro com rodinha e porta",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 250,
     "categoria": "moveis",
     "descricao": "Gabinete de banheiro com rodinha e porta, ideal para organizar seus itens de higiene e beleza.",
-    "fotos": ["armpiabanheiro_1.jpg", "armpiabanheiro_2.jpg", "armpiabanheiro_3.jpg", "armpiabanheiro_4.jpg"]
+    "fotos": [
+      "armpiabanheiro_1.jpg",
+      "armpiabanheiro_2.jpg",
+      "armpiabanheiro_3.jpg",
+      "armpiabanheiro_4.jpg"
+    ]
   },
   {
-    "id": "30",
+    "id": 30,
     "nome": "Armario de banheiro com espelho",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 250,
     "categoria": "moveis",
     "descricao": "Armario de banheiro com espelho e divisórias, ideal para organizar seus itens de higiene e beleza.",
-    "fotos": ["armariobanheiro2_1.jpg", "armariobanheiro2_2.jpg", "armariobanheiro2_3.jpg", "armariobanheiro2_4.jpg"]
+    "fotos": [
+      "armariobanheiro2_1.jpg",
+      "armariobanheiro2_2.jpg",
+      "armariobanheiro2_3.jpg",
+      "armariobanheiro2_4.jpg"
+    ]
   },
   {
-    "id": "31",
+    "id": 31,
     "nome": "Penteadeira com espelho e porta",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 300,
     "categoria": "moveis",
     "descricao": "Penteadeira com espelho, gaveta e porta, ideal para organizar seus itens de beleza.",
-    "fotos": ["penteadeira_1.jpg", "penteadeira_2.jpg", "penteadeira_3.jpg", "penteadeira_4.jpg"]
+    "fotos": [
+      "penteadeira_1.jpg",
+      "penteadeira_2.jpg",
+      "penteadeira_3.jpg",
+      "penteadeira_4.jpg"
+    ]
   },
   {
-    "id": "32",
+    "id": 32,
     "nome": "Aparador adega retro off white",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 400,
     "categoria": "moveis",
     "descricao": "Aparador adega retro off white, ideal para armazenar e exibir suas bebidas com estilo.",
-    "fotos": ["adega_1.jpg", "adega_2.jpg", "adega_3.jpg", "adega_4.jpg"]
+    "fotos": [
+      "adega_1.jpg",
+      "adega_2.jpg",
+      "adega_3.jpg",
+      "adega_4.jpg"
+    ]
   },
   {
-    "id": "33",
+    "id": 33,
     "nome": "Livreiro branco de madeira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 500,
     "categoria": "moveis",
     "descricao": "Livreiro branco de madeira com porta, ideal para organizar seus livros com estilo.",
-    "fotos": ["livreiro_1.jpg", "livreiro_2.jpg", "livreiro_3.jpg", "livreiro_4.jpg"]
+    "fotos": [
+      "livreiro_1.jpg",
+      "livreiro_2.jpg",
+      "livreiro_3.jpg",
+      "livreiro_4.jpg"
+    ]
   },
   {
-    "id": "34",
+    "id": 34,
     "nome": "Quarto de bebê branco de madeira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 2000,
     "categoria": "moveis",
     "descricao": "Quarto de bebê branco de madeira com guarda-roupa, trocador, berço e colchão.",
-    "fotos": ["qbebe_1.jpg", "qbebe_2.jpg", "qbebe_3.jpg", "qbebe_4.jpg"]
+    "fotos": [
+      "qbebe_1.jpg",
+      "qbebe_2.jpg",
+      "qbebe_3.jpg",
+      "qbebe_4.jpg"
+    ]
   },
   {
-    "id": "35",
+    "id": 35,
     "nome": "Berço para bebê",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 1000,
     "categoria": "moveis",
     "descricao": "Berço para bebê branco de madeira com grade removível para transformar em uma cama infantil (acompanha colchão).",
-    "fotos": ["berco_1.jpg"]
+    "fotos": [
+      "berco_1.jpg"
+    ]
   },
   {
-    "id": "36",
+    "id": 36,
     "nome": "Armario multiuso",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 200,
     "categoria": "moveis",
     "descricao": "Armario branco de madeira com 5 divisorias e duas portas, ideal para organizar seus itens com estilo.",
-    "fotos": ["armbrinq_1.jpg", "armbrinq_2.jpg", "armbrinq_3.jpg", "armbrinq_4.jpg"]
+    "fotos": [
+      "armbrinq_1.jpg",
+      "armbrinq_2.jpg",
+      "armbrinq_3.jpg",
+      "armbrinq_4.jpg"
+    ]
   },
   {
-    "id": "37",
+    "id": 37,
     "nome": "Cristaleira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 1300,
     "categoria": "moveis",
     "descricao": "Cristaleira de madeira com duas portas e 4 divisórias internas.",
-    "fotos": ["crist_1.jpg", "crist_2.jpg", "crist_3.jpg", "crist_4.jpg"]
+    "fotos": [
+      "crist_1.jpg",
+      "crist_2.jpg",
+      "crist_3.jpg",
+      "crist_4.jpg"
+    ]
   },
   {
-    "id": "38",
+    "id": 38,
     "nome": "Escrivaninha em L",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 400,
     "categoria": "moveis",
     "descricao": "Escrivaninha em L, ideal para otimizar o espaço de trabalho em casa.",
-    "fotos": ["escr_1.jpg", "escr_2.jpg", "escr_3.jpg", "escr_4.jpg"]
+    "fotos": [
+      "escr_1.jpg",
+      "escr_2.jpg",
+      "escr_3.jpg",
+      "escr_4.jpg"
+    ]
   },
   {
-    "id": "39",
+    "id": 39,
     "nome": "Kit 2 mesas de cabeceira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 500,
     "categoria": "moveis",
     "descricao": "Kit 2 mesas de cabeceira com 3 gavetas, ideal para organizar seus itens ao lado da cama.",
-    "fotos": ["criadom_1.jpg", "criadom_2.jpg", "criadom_3.jpg"]
+    "fotos": [
+      "criadom_1.jpg",
+      "criadom_2.jpg",
+      "criadom_3.jpg"
+    ]
   },
   {
-    "id": "40",
+    "id": 40,
     "nome": "Grade de protecao para cama/berço infantil",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 100,
     "categoria": "moveis",
     "descricao": "Grade de proteção para cama/berço infantil. Temos 2 unidades.",
-    "fotos": ["pberco_1.jpg", "pberco_2.jpg", "pberco_3.jpg", "pberco_4.jpg"]
+    "fotos": [
+      "pberco_1.jpg",
+      "pberco_2.jpg",
+      "pberco_3.jpg",
+      "pberco_4.jpg"
+    ]
   },
   {
-    "id": "41",
+    "id": 41,
     "nome": "Comoda em madeira com 6 gavetas",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 900,
     "categoria": "moveis",
     "descricao": "Cômoda em madeira com 6 gavetas, ideal para organizar suas roupas e acessórios.",
-    "fotos": ["comoda_1.jpg", "comoda_2.jpg", "comoda_3.jpg", "comoda_4.jpg"]
+    "fotos": [
+      "comoda_1.jpg",
+      "comoda_2.jpg",
+      "comoda_3.jpg",
+      "comoda_4.jpg"
+    ]
   },
   {
-    "id": "42",
+    "id": 42,
     "nome": "Cômoda retrô com 8 gavetas",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 950,
     "categoria": "moveis",
     "descricao": "Cômoda retrô em madeira com 8 gavetas.",
-    "fotos": ["comodaretro_1.jpg", "comodaretro_2.jpg", "comodaretro_3.jpg", "comodaretro_4.jpg"]
+    "fotos": [
+      "comodaretro_1.jpg",
+      "comodaretro_2.jpg",
+      "comodaretro_3.jpg",
+      "comodaretro_4.jpg"
+    ]
   },
   {
-    "id": "43",
+    "id": 43,
     "nome": "Kit 3 prateleiras para livros",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 150,
     "categoria": "moveis",
     "descricao": "Kit 3 prateleiras para livros, ideais para organizar seus livros com estilo.",
-    "fotos": ["prateleira_1.jpg", "prateleira_2.jpg", "prateleira_3.jpg", "prateleira_4.jpg"]
+    "fotos": [
+      "prateleira_1.jpg",
+      "prateleira_2.jpg",
+      "prateleira_3.jpg",
+      "prateleira_4.jpg"
+    ]
   },
   {
-    "id": "44",
+    "id": 44,
     "nome": "Kit 3 prateleiras de madeira",
     "estado": "Usado",
-    "preco": "R$ xxx",
+    "preco": 150,
     "categoria": "moveis",
     "descricao": "Kit 3 prateleiras de madeira.",
-    "fotos": ["pratmadeira_1.jpg", "pratmadeira_2.jpg"]
+    "fotos": [
+      "pratmadeira_1.jpg",
+      "pratmadeira_2.jpg"
+    ]
   }
 ]
