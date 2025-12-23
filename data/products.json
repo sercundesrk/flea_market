@@ -1,18 +1,18 @@
 [
-  {
-    "id": 1,
-    "nome": "Jogo de jantar portugal",
-    "estado": "Novo",
-    "preco": 260,
-    "categoria": "cozinha",
-    "descricao": "Jogo de jantar portugal com 16 peças, porcelana branca e detalhes em azul.",
-    "fotos": [
-      "jantar_azul_1.jpg",
-      "jantar_azul_2.jpg",
-      "jantar_azul_3.jpg",
-      "jantar_azul_4.jpg"
-    ]
-  },
+  // {
+  //   "id": 1,
+  //   "nome": "Jogo de jantar portugal",
+  //   "estado": "Novo",
+  //   "preco": 260,
+  //   "categoria": "cozinha",
+  //   "descricao": "Jogo de jantar portugal com 16 peças, porcelana branca e detalhes em azul.",
+  //   "fotos": [
+  //     "jantar_azul_1.jpg",
+  //     "jantar_azul_2.jpg",
+  //     "jantar_azul_3.jpg",
+  //     "jantar_azul_4.jpg"
+  //   ]
+  // },
   {
     "id": 2,
     "nome": "Pratos para bateria",
