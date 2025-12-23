@@ -77,6 +77,21 @@ main {
   object-fit: cover;
 }
 
+/* Lazy Loading Styles */
+.produto img, .galeria img {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.produto img.loaded, .galeria img.loaded {
+  opacity: 1;
+}
+
+.produto img[data-src] {
+  background: #f0f0f0 url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIiBmaWxsPSIjOTk5Ij5DYXJyZWdhbmRvLi4uPC90ZXh0Pjwvc3ZnPg==') no-repeat center center;
+  background-size: cover;
+}
+
 .whatsapp, .voltar {
   position: fixed;
   bottom: 10px;
@@ -115,6 +130,21 @@ main {
   border: 1px solid #ccc;
   border-radius: 5px;
   object-fit: cover;
+}
+
+/* Lazy Loading Styles */
+.produto img, .galeria img {
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.produto img.loaded, .galeria img.loaded {
+  opacity: 1;
+}
+
+.produto img[data-src] {
+  background: #f0f0f0 url('data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSIjZGRkIi8+PHRleHQgeD0iNTAlIiB5PSI1MCUiIGZvbnQtc2l6ZT0iMTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGR5PSIuM2VtIiBmaWxsPSIjOTk5Ij5DYXJyZWdhbmRvLi4uPC90ZXh0Pjwvc3ZnPg==') no-repeat center center;
+  background-size: cover;
 }
 
 .detalhes-info {

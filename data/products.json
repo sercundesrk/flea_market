@@ -249,7 +249,7 @@
     "preco": "R$ xxx",
     "categoria": "moveis",
     "descricao": "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
-    "fotos": ["sapateira_1.png", "sapateira_2.png", "sapateira_3.png", "sapateira_4.png"]
+    "fotos": ["sapateira_1.jpg", "sapateira_2.jpg", "sapateira_3.jpg", "sapateira_4.jpg"]
   },
   {
     "id": "29",
@@ -339,7 +339,7 @@
     "preco": "R$ xxx",
     "categoria": "moveis",
     "descricao": "Escrivaninha em L, ideal para otimizar o espaço de trabalho em casa.",
-    "fotos": ["escr_1.png", "escr_2.png", "escr_3.png", "escr_4.png"]
+    "fotos": ["escr_1.jpg", "escr_2.jpg", "escr_3.jpg", "escr_4.jpg"]
   },
   {
     "id": "39",

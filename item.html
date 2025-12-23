@@ -38,6 +38,36 @@
     const urlParams = new URLSearchParams(window.location.search);
     const id = urlParams.get('id');
 
+    // Função de lazy loading para a galeria
+    function initializeGalleryLazyLoading() {
+      if ('IntersectionObserver' in window) {
+        const imageObserver = new IntersectionObserver((entries, observer) => {
+          entries.forEach(entry => {
+            if (entry.isIntersecting) {
+              const img = entry.target;
+              const src = img.getAttribute('data-src');
+              if (src) {
+                const imageLoader = new Image();
+                imageLoader.onload = function() {
+                  img.src = src;
+                  img.classList.add('loaded');
+                  img.removeAttribute('data-src');
+                };
+                imageLoader.src = src;
+              }
+              observer.unobserve(img);
+            }
+          });
+        }, {
+          rootMargin: '50px 0px',
+          threshold: 0.1
+        });
+
+        const lazyImages = document.querySelectorAll('.galeria img[data-src]');
+        lazyImages.forEach(img => imageObserver.observe(img));
+      }
+    }
+
     fetch('data/products.json')
       .then(res => res.json())
       .then(produtos => {
@@ -54,10 +84,13 @@
             </div>
             <div class="galeria">
               ${produto.fotos.map(foto => `
-                <img src="images/${foto}" alt="${produto.nome}">
+                <img data-src="images/${foto}" alt="${produto.nome}" loading="lazy">
               `).join('')}
             </div>
           `;
+          
+          // Inicializar lazy loading para a galeria
+          setTimeout(initializeGalleryLazyLoading, 100);
         } else {
           container.innerHTML = `<p>Produto não encontrado.</p>`;
         }
