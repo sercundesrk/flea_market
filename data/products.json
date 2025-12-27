@@ -376,7 +376,7 @@
     "id": 28,
     "nome": "Sapateira de madeira",
     "estado": "Usado",
-    "preco": 180,
+    "preco": 145,
     "categoria": "moveis",
     "descricao": "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
     "fotos": [
@@ -390,7 +390,7 @@
     "id": 29,
     "nome": "Gabinete de banheiro com rodinha e porta",
     "estado": "Usado",
-    "preco": 250,
+    "preco": 145,
     "categoria": "moveis",
     "descricao": "Gabinete de banheiro com rodinha e porta, ideal para organizar seus itens de higiene e beleza.",
     "fotos": [
@@ -404,7 +404,7 @@
     "id": 30,
     "nome": "Armario de banheiro com espelho",
     "estado": "Usado",
-    "preco": 250,
+    "preco": 100,
     "categoria": "moveis",
     "descricao": "Armario de banheiro com espelho e divisórias, ideal para organizar seus itens de higiene e beleza.",
     "fotos": [
@@ -418,7 +418,7 @@
     "id": 31,
     "nome": "Penteadeira com espelho e porta",
     "estado": "Usado",
-    "preco": 300,
+    "preco": 780,
     "categoria": "moveis",
     "descricao": "Penteadeira com espelho, gaveta e porta, ideal para organizar seus itens de beleza.",
     "fotos": [
@@ -432,7 +432,7 @@
     "id": 32,
     "nome": "Aparador adega retro off white",
     "estado": "Usado",
-    "preco": 400,
+    "preco": 145,
     "categoria": "moveis",
     "descricao": "Aparador adega retro off white, ideal para armazenar e exibir suas bebidas com estilo.",
     "fotos": [
@@ -446,7 +446,7 @@
     "id": 33,
     "nome": "Livreiro branco de madeira",
     "estado": "Usado",
-    "preco": 500,
+    "preco": 250,
     "categoria": "moveis",
     "descricao": "Livreiro branco de madeira com porta, ideal para organizar seus livros com estilo.",
     "fotos": [
@@ -460,7 +460,7 @@
     "id": 34,
     "nome": "Quarto de bebê branco de madeira",
     "estado": "Usado",
-    "preco": 2000,
+    "preco": 820,
     "categoria": "moveis",
     "descricao": "Quarto de bebê branco de madeira com guarda-roupa, trocador, berço e colchão.",
     "fotos": [
@@ -474,7 +474,7 @@
     "id": 35,
     "nome": "Berço para bebê",
     "estado": "Usado",
-    "preco": 1000,
+    "preco": 310,
     "categoria": "moveis",
     "descricao": "Berço para bebê branco de madeira com grade removível para transformar em uma cama infantil (acompanha colchão).",
     "fotos": [
@@ -485,7 +485,7 @@
     "id": 36,
     "nome": "Armario multiuso",
     "estado": "Usado",
-    "preco": 200,
+    "preco": 110,
     "categoria": "moveis",
     "descricao": "Armario branco de madeira com 5 divisorias e duas portas, ideal para organizar seus itens com estilo.",
     "fotos": [
@@ -499,7 +499,7 @@
     "id": 37,
     "nome": "Cristaleira",
     "estado": "Usado",
-    "preco": 1300,
+    "preco": 348,
     "categoria": "moveis",
     "descricao": "Cristaleira de madeira com duas portas e 4 divisórias internas.",
     "fotos": [
@@ -513,7 +513,7 @@
     "id": 38,
     "nome": "Escrivaninha em L",
     "estado": "Usado",
-    "preco": 400,
+    "preco": 260,
     "categoria": "moveis",
     "descricao": "Escrivaninha em L, ideal para otimizar o espaço de trabalho em casa.",
     "fotos": [
@@ -527,7 +527,7 @@
     "id": 39,
     "nome": "Kit 2 mesas de cabeceira",
     "estado": "Usado",
-    "preco": 500,
+    "preco": 320,
     "categoria": "moveis",
     "descricao": "Kit 2 mesas de cabeceira com 3 gavetas, ideal para organizar seus itens ao lado da cama.",
     "fotos": [
@@ -540,7 +540,7 @@
     "id": 40,
     "nome": "Grade de protecao para cama/berço infantil",
     "estado": "Usado",
-    "preco": 100,
+    "preco": 140,
     "categoria": "moveis",
     "descricao": "Grade de proteção para cama/berço infantil. Temos 2 unidades.",
     "fotos": [
@@ -554,7 +554,7 @@
     "id": 41,
     "nome": "Comoda em madeira com 6 gavetas",
     "estado": "Usado",
-    "preco": 900,
+    "preco": 340,
     "categoria": "moveis",
     "descricao": "Cômoda em madeira com 6 gavetas, ideal para organizar suas roupas e acessórios.",
     "fotos": [
@@ -568,7 +568,7 @@
     "id": 42,
     "nome": "Cômoda retrô com 8 gavetas",
     "estado": "Usado",
-    "preco": 950,
+    "preco": 400,
     "categoria": "moveis",
     "descricao": "Cômoda retrô em madeira com 8 gavetas.",
     "fotos": [
@@ -582,7 +582,7 @@
     "id": 43,
     "nome": "Kit 3 prateleiras para livros",
     "estado": "Usado",
-    "preco": 150,
+    "preco": 70,
     "categoria": "moveis",
     "descricao": "Kit 3 prateleiras para livros, ideais para organizar seus livros com estilo.",
     "fotos": [
@@ -596,7 +596,7 @@
     "id": 44,
     "nome": "Kit 3 prateleiras de madeira",
     "estado": "Usado",
-    "preco": 150,
+    "preco": 75,
     "categoria": "moveis",
     "descricao": "Kit 3 prateleiras de madeira.",
     "fotos": [
