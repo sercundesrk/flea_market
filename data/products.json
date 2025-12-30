@@ -73,7 +73,7 @@
     "id": 6,
     "nome": "Conjunto de bowls",
     "estado": "Usado",
-    "preco": 100,
+    "preco": 80,
     "categoria": "cozinha",
     "descricao": "Conjunto de 6 bowls pretos em cerâmica.",
     "fotos": [
@@ -87,9 +87,9 @@
     "id": 7,
     "nome": "Aparelho foundue elétrico",
     "estado": "Novo",
-    "preco": 180,
+    "preco": 150,
     "categoria": "cozinha",
-    "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável, xxV. Acompanha 8 garfos e bandeja de suporte",
+    "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável, 127V. Acompanha 8 garfos e bandeja de suporte",
     "fotos": [
       "foundue_1.jpg",
       "foundue_2.jpg",
@@ -99,11 +99,11 @@
   },
   {
     "id": 8,
-    "nome": "Caixa térmica x litros",
+    "nome": "Caixa térmica 18L",
     "estado": "Usado",
     "preco": 40,
     "categoria": "diversos",
-    "descricao": "Caixa térmica x litros usada, ideal para manter bebidas e alimentos frescos em passeios e eventos.",
+    "descricao": "Caixa térmica 18 litros usada, ideal para manter bebidas e alimentos frescos em passeios e eventos.",
     "fotos": [
       "caixa_termica_1.jpg",
       "caixa_termica_2.jpg",
@@ -115,7 +115,7 @@
     "id": 9,
     "nome": "Conjunto de xícaras de café",
     "estado": "Usado",
-    "preco": 95,
+    "preco": 100,
     "categoria": "cozinha",
     "descricao": "Jogo de xicaras e pires para café com 12 peças.",
     "fotos": [
@@ -129,9 +129,9 @@
     "id": 10,
     "nome": "Aspirador de pó",
     "estado": "Usado",
-    "preco": 150,
+    "preco": 160,
     "categoria": "eletrodomesticos",
-    "descricao": "Aspirador de pó Black+Decker 1200w, xxV, com acesssórios. Ideal para manter a casa limpa e livre de poeira.",
+    "descricao": "Aspirador de pó Black+Decker 1200w, 127V, com acesssórios. Ideal para manter a casa limpa e livre de poeira.",
     "fotos": [
       "aspirador_1.jpg",
       "aspirador_2.jpg",
@@ -145,7 +145,7 @@
     "estado": "Novo",
     "preco": 100,
     "categoria": "eletrodomesticos",
-    "descricao": "Ferro de passar Philco, xxV, base de cerâmica, passa na vertical com múltiplas saídas de vapor.",
+    "descricao": "Ferro de passar Philco, 220V, base de cerâmica, passa na vertical com múltiplas saídas de vapor.",
     "fotos": [
       "ferro_1.jpg",
       "ferro_2.jpg",
@@ -157,7 +157,7 @@
     "id": 12,
     "nome": "Caixa de ferramentas de plástico",
     "estado": "Usado",
-    "preco": 70,
+    "preco": 50,
     "categoria": "diversos",
     "descricao": "Caixa de ferramentas de plástico, com divisória interna.",
     "fotos": [
@@ -171,9 +171,9 @@
     "id": 13,
     "nome": "Multiprocessador de alimentos Walita",
     "estado": "Novo",
-    "preco": 290,
+    "preco": 250,
     "categoria": "eletrodomesticos",
-    "descricao": "Multiprocessador de alimentos Walita, xxV, com múltiplas funções para facilitar o preparo de suas receitas.",
+    "descricao": "Multiprocessador de alimentos Walita, 127V, com múltiplas funções para facilitar o preparo de suas receitas.",
     "fotos": [
       "multiprocessador_1.jpg",
       "multiprocessador_2.jpg",
@@ -187,7 +187,7 @@
     "estado": "Usado",
     "preco": 100,
     "categoria": "diversos",
-    "descricao": "Mesa de centro de xx nas dimensoes L x C x A.",
+    "descricao": "Mesa de centro de nas dimensoes () Largura x () Comprimento x ()Altura.",
     "fotos": [
       "mesa_1.jpg",
       "mesa_2.jpg",
@@ -241,7 +241,7 @@
     "id": 18,
     "nome": "Conjunto para massas - 2 peças",
     "estado": "Novo",
-    "preco": 60,
+    "preco": 70,
     "categoria": "cozinha",
     "descricao": "Conjunto para massas com 2 peças.",
     "fotos": [
@@ -269,7 +269,7 @@
     "id": 20,
     "nome": "Jogo de cama queen size",
     "estado": "Novo",
-    "preco": 250,
+    "preco": 100,
     "categoria": "diversos",
     "descricao": "Jogo de cama queen size novo, confortável e de alta qualidade.",
     "fotos": [
@@ -283,7 +283,7 @@
     "id": 21,
     "nome": "Vaso de vidro decorativo",
     "estado": "Usado",
-    "preco": 100,
+    "preco": 50,
     "categoria": "diversos",
     "descricao": "Vaso de vidro decorativo, ideal para complementar a decoração da sua casa.",
     "fotos": [
@@ -297,7 +297,7 @@
     "id": 22,
     "nome": "Assento de elevação",
     "estado": "Usado",
-    "preco": 90,
+    "preco": 50,
     "categoria": "diversos",
     "descricao": "Assento de elevação, ideal para proporcionar conforto e segurança para crianças.",
     "fotos": [
@@ -311,7 +311,7 @@
     "id": 23,
     "nome": "Petisqueira de vidro",
     "estado": "Novo",
-    "preco": 70,
+    "preco": 50,
     "categoria": "cozinha",
     "descricao": "Petisqueira de vidro nova, ideal para servir petiscos com elegância.",
     "fotos": [
@@ -520,7 +520,6 @@
       "escr_1.jpg",
       "escr_2.jpg",
       "escr_3.jpg",
-      "escr_4.jpg"
     ]
   },
   {
