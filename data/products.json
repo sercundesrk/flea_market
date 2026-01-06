@@ -29,16 +29,16 @@
   },
   {
     "id": 3,
-    "nome": "Caixa termica 34L",
+    "nome": "Roçadeira Stihl FS160",
     "estado": "Usado",
-    "preco": 60,
+    "preco": 1700,
     "categoria": "diversos",
-    "descricao": "Caixa Térmica 34 Litros Azul Mor - Possui tampa com trava removível, porta copos e objetos; Alça para facilitar o transporte; Dimensão interna da caixa térmica: 39,5 cm x 27,5 cm x 34 cm. Capacidade para: Latinha: 50 unidades de 350 ml / Garrafa pet: 7 unidades de 2L",
+    "descricao": "Roçadeira Stihl FS160. Acompanha faca e sistema com fio de corte, galão dosador, chave de regulagem, óculos de proteção e alça de suporte.",
     "fotos": [
-      "caixa_termica1.jpg",
-      "caixa_termica2.jpg",
-      "caixa_termica3.jpg",
-      "caixa_termica4.jpg"
+      "rocadeira_1.jpg",
+      "rocadeira_2.jpg",
+      "rocadeira_3.jpg",
+      "rocadeira_4.jpg"
     ]
   },
   {
@@ -601,6 +601,62 @@
     "fotos": [
       "pratmadeira_1.jpg",
       "pratmadeira_2.jpg"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Vasilhas de vidro com tampa",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Vasilhas de vidro com tampa.",
+    "fotos": [
+      "potes_1.jpg",
+      "potes_2.jpg",
+      "potes_3.jpg",
+      "potes_4.jpg"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Guilhotina de papel",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Guilhotina de papel usada para cortar papel com precisão.",
+    "fotos": [
+      "guilhotina_1.jpg",
+      "guilhotina_2.jpg",
+      "guilhotina_3.jpg",
+      "guilhotina_4.jpg"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Depilador elétrico",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Depilador elétrico com carregador e acessórios - 127V.",
+    "fotos": [
+      "depilador_1.jpg",
+      "depilador_2.jpg",
+      "depilador_3.jpg",
+      "depilador_4.jpg"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Raquetes e bolinhas de tenis",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Conjunto de raquetes e bolinhas de tênis, acompanha case, ideal para iniciantes e prática recreativa.",
+    "fotos": [
+      "tenis_1.jpg",
+      "tenis_2.jpg",
+      "tenis_3.jpg",
+      "tenis_4.jpg"
     ]
   }
 ]
