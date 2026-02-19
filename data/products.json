@@ -622,7 +622,7 @@
     "nome": "Guilhotina de papel",
     "estado": "Usado",
     "preco": 50,
-    "categoria": "cozinha",
+    "categoria": "diversos",
     "descricao": "Guilhotina de papel usada para cortar papel com precisão.",
     "fotos": [
       "guilhotina_1.jpg",
@@ -657,6 +657,172 @@
       "tenis_2.jpg",
       "tenis_3.jpg",
       "tenis_4.jpg"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Conjunto de pratinhos de vidro",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Conjunto de pratinhos de vidro (1 grande e 4 pequenos).",
+    "fotos": [
+      "prat_1.jpg",
+      "prat_2.jpg",
+      "prat_3.jpg",
+      "prat_4.jpg"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Faqueiro Tramontina 30 peças",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Faqueiro Tramontina com 30 peças, ideal para suas refeições.",
+    "fotos": [
+      "faq_1.jpg",
+      "faq_2.jpg",
+      "faq_3.jpg",
+      "faq_4.jpg"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Mochila esporte/acampamento",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Mochila grande para esportes e acampamento.",
+    "fotos": [
+      "mochila_1.jpg",
+      "mochila_2.jpg",
+      "mochila_3.jpg",
+      "mochila_4.jpg"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Secador de cabelo TAIFF Volcano",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Secador de cabelo TAIFF Volcano usado 220v, 2400W, cabo de 3m, ideal para secar e modelar os cabelos.",
+    "fotos": [
+      "secador_1.jpg",
+      "secador_2.jpg",
+      "secador_3.jpg",
+      "secador_4.jpg"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Jogo para caipirinha",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Jogo para caipirinha completo, ideal para preparar suas bebidas com estilo.",
+    "fotos": [
+      "caip_1.jpg",
+      "caip_2.jpg",
+      "caip_3.jpg",
+      "caip_4.jpg"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Varal retrátil",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Varal retratil em metal, ideal para secar roupas em espaços reduzidos.",
+    "fotos": [
+      "varal_1.jpg",
+      "varal_2.jpg",
+      "varal_3.jpg"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Jogo para sobremesa Doce Sabor Top Line",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Jogo para sobremesa com 6 potes e 6 colheres.",
+    "fotos": [
+      "sob_1.jpg",
+      "sob_2.jpg",
+      "sob_3.jpg",
+      "sob_4.jpg"
+    ]
+  },
+  ,
+  {
+    "id": 56,
+    "nome": "Jogo para sobremesa Doce Mania Top Line",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Jogo para sobremesa com 6 potes e 6 colheres.",
+    "fotos": [
+      "sobb_1.jpg",
+      "sobb_2.jpg",
+      "sobb_3.jpg",
+      "sobb_4.jpg"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Jogo de taças para vinho",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Conjunto de taças para vinho, ideal para suas degustações.",
+    "fotos": [
+      "vinho_1.jpg",
+      "vinho_2.jpg",
+      "vinho_3.jpg",
+      "vinho_4.jpg"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "Guarda-sóis",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "2 Guarda-sóis usados, ideais para praia e piscina.",
+    "fotos": [
+      "gsol_1.jpg",
+      "gsol_2.jpg",
+      "gsol_3.jpg",
+      "gsol_4.jpg"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Perfurador de areia",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "2 Perfuradores de areia usados, ideais para praia e piscina.",
+    "fotos": [
+      "buraco_1.jpg",
+      "buraco_2.jpg",
+      "buraco_3.jpg",
+      "buraco_4.jpg"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Caixa de som bivolt",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Caixa de som bivolt, 600W usada com cabo e controle, ideal para suas músicas.",
+    "fotos": [
+      "caixasom_1.jpg",
+      "caixasom_2.jpg"
     ]
   }
 ]
