@@ -723,10 +723,10 @@
     "categoria": "cozinha",
     "descricao": "Jogo para caipirinha completo, ideal para preparar suas bebidas com estilo.",
     "fotos": [
-      "caip_1.jpg",
-      "caip_2.jpg",
-      "caip_3.jpg",
-      "caip_4.jpg"
+      "caipi_1.jpg",
+      "caipi_2.jpg",
+      "caipi_3.jpg",
+      "caipi_4.jpg"
     ]
   },
   {
@@ -822,6 +822,143 @@
     "fotos": [
       "caixasom_1.jpg",
       "caixasom_2.jpg"
+    ]
+  },
+  {
+    "id": 61,
+    "nome": "Escada de alumínio",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Escada de alumínio usada, ideal para alcançar lugares altos com segurança.",
+    "fotos": [
+      "escada_1.jpg",
+      "escada_2.jpg",
+      "escada_3.jpg",
+      "escada_4.jpg"
+    ]
+  },
+  {
+    "id": 62,
+    "nome": "Cafeteira elétrica",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "Cafeteira elétrica 127v.",
+    "descricao": ".",
+    "fotos": [
+      "caf_1.jpg",
+      "caf_2.jpg",
+      "caf_3.jpg",
+      "caf_4.jpg"
+    ]
+  },
+  {
+    "id": 63,
+    "nome": "Jogo de badminton",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "Jogo de badminton com 4 raquetes, petecas, suporte e rede.",
+    "descricao": ".",
+    "fotos": [
+      "badminton_1.jpg",
+      "badminton_2.jpg"
+    ]
+  },
+  {
+    "id": 64,
+    "nome": "Luminária de vela",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Luminária de vela em pedra sabão.",
+    "fotos": [
+      "vela_1.jpg",
+      "vela_2.jpg",
+      "vela_3.jpg",
+      "vela_4.jpg"
+    ]
+  },
+  {
+    "id": 65,
+    "nome": "Caixa de jóias em pedra sabão",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Caixa de jóias em pedra sabão.",
+    "fotos": [
+      "caixa_1.jpg",
+      "caixa_2.jpg",
+      "caixa_3.jpg",
+      "caixa_4.jpg"
+    ]
+  },
+  {
+    "id": 66,
+    "nome": "Formas para pizza em pedra sabão",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "2 formas para pizza em pedra sabão.",
+    "fotos": [
+      "pizza_1.jpg",
+      "pizza_2.jpg",
+      "pizza_3.jpg",
+      "pizza_4.jpg"
+    ]
+  },
+  {
+    "id": 67,
+    "nome": "Prato para pizza em pedra sabão",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "1 prato para pizza em pedra sabão.",
+    "fotos": [
+      "pratop_1.jpg",
+      "pratop_2.jpg",
+      "pratop_3.jpg",
+      "pratop_4.jpg"
+    ]
+  },
+  {
+    "id": 68,
+    "nome": "Suporte para copos",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "4 suportes para copos com caixa em metal.",
+    "fotos": [
+      "supc_1.jpg",
+      "supc_2.jpg",
+      "supc_3.jpg"
+    ]
+  },
+  {
+    "id": 69,
+    "nome": "Kit para berço",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit para berço com protetores e fronha, ideal para o conforto do seu bebê.",
+    "fotos": [
+      "protb_1.jpg",
+      "protb_2.jpg",
+      "protb_3.jpg",
+      "protb_4.jpg"
+    ]
+  },
+  {
+    "id": 70,
+    "nome": "",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": ".",
+    "fotos": [
+      "protb_1.jpg",
+      "protb_2.jpg",
+      "protb_3.jpg",
+      "protb_4.jpg"
     ]
   }
 ]
