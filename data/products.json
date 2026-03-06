@@ -949,16 +949,326 @@
   },
   {
     "id": 70,
-    "nome": "",
+    "nome": "Kit de vasos",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit de 4 vasos usados em cerâmica, ideal para decoração.",
+    "fotos": [
+      "kitvaso_1.jpg",
+      "kitvaso_2.jpg",
+      "kitvaso_3.jpg",
+      "kitvaso_4.jpg"
+    ]
+  },
+  {
+    "id": 71,
+    "nome": "Kit de decoração em pedra sabão",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit de decoração em pedra sabão, ideal para decoração.",
+    "fotos": [
+      "kitdp_1.jpg",
+      "kitdp_2.jpg",
+      "kitdp_3.jpg",
+      "kitdp_4.jpg"
+    ]
+  },
+  {
+    "id": 72,
+    "nome": "Jogo de jantar com x peças",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "Jogo de jantar com x peças, porcelana branca e preta.",
+    "fotos": [
+      "kitflor_1.jpg",
+      "kitflor_2.jpg",
+      "kitflor_3.jpg",
+      "kitflor_4.jpg"
+    ]
+  },
+  {
+    "id": 73,
+    "nome": "Jogo de jantar kk",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "cozinha",
+    "descricao": "xxx.",
+    "fotos": [
+      "kitjantar_1.jpg",
+      "kitjantar_2.jpg",
+      "kitjantar_3.jpg",
+      "kitjantar_4.jpg"
+    ]
+  },
+  {
+    "id": 74,
+    "nome": "Kit vasos 1",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "xxx.",
+    "fotos": [
+      "vasos_1.jpg",
+      "vasos_2.jpg",
+      "vasos_3.jpg",
+      "vasos_4.jpg"
+    ]
+  },
+  {
+    "id": 75,
+    "nome": "Kit vasos 2",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "xxx.",
+    "fotos": [
+      "vasos2_1.jpg",
+      "vasos2_2.jpg",
+      "vasos2_3.jpg",
+      "vasos2_4.jpg"
+    ]
+  },
+  {
+    "id": 76,
+    "nome": "Vaso suspenso para plantas",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Vaso suspenso para plantas, ideal para decoração.",
+    "fotos": [
+      "vasop_1.jpg",
+      "vasop_2.jpg",
+      "vasop_3.jpg",
+      "vasop_4.jpg"
+    ]
+  },
+  {
+    "id": 77,
+    "nome": "Óculos e touca de natação",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Dois óculos e uma touca de natação, ideal para atividades aquáticas.",
+    "fotos": [
+      "nat_1.jpg",
+      "nat_2.jpg",
+      "nat_3.jpg",
+      "nat_4.jpg"
+    ]
+  },
+  {
+    "id": 78,
+    "nome": "Kit de volei de praia",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit de volei de praia com bola, bomba e bicos, ideal para atividades ao ar livre.",
+    "fotos": [
+      "kitvolei_1.jpg",
+      "kitvolei_2.jpg",
+      "kitvolei_3.jpg",
+      "kitvolei_4.jpg"
+    ]
+  },
+  {
+    "id": 79,
+    "nome": "Kit de colchões infláveis + bomba",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Colchão inflável casal e solteiro, ideal para camping e viagens. Inclui bomba manual para inflar.",
+    "fotos": [
+      "kitcolchao_1.jpg",
+      "kitcolchao_2.jpg",
+      "kitcolchao_3.jpg",
+      "kitcolchao_4.jpg"
+    ]
+  },
+  {
+    "id": 80,
+    "nome": "Lanterna de led",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Lanterna de led com 2 baterias recarregáveis.",
+    "fotos": [
+      "lanterna_1.jpg",
+      "lanterna_2.jpg",
+      "lanterna_3.jpg",
+      "lanterna_4.jpg"
+    ]
+  },
+  {
+    "id": 81,
+    "nome": "Segueta com serra",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Segueta e serra.",
+    "fotos": [
+      "segueta_1.jpg"
+    ]
+  },
+  {
+    "id": 82,
+    "nome": "Serrote",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Serrote.",
+    "fotos": [
+      "serrote_1.jpg"
+    ]
+  },
+  {
+    "id": 83,
+    "nome": "Tesoura de jardinagem",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Tesoura de jardinagem.",
+    "fotos": [
+      "tesoura_1.jpg"
+    ]
+  },
+  {
+    "id": 84,
+    "nome": "xx",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "xx.",
+    "fotos": [
+      "tesoura_1.jpg"
+    ]
+  },
+  {
+    "id": 85,
+    "nome": "Enxadão",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Enxadão.",
+    "fotos": [
+      "enxadao_1.jpg"
+    ]
+  },
+  {
+    "id": 86,
+    "nome": "Rastelo de plástico",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Rastelo de plástico.",
+    "fotos": [
+      "rastelo_1.jpg"
+    ]
+  },
+  {
+    "id": 88,
+    "nome": "Cameras de segurança",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "2 cameras de segurança.",
+    "fotos": [
+      "camera_1.jpg",
+      "camera_2.jpg",
+      "camera_3.jpg",
+      "camera_4.jpg"
+    ]
+  },
+  {
+    "id": 89,
+    "nome": "Kit de escritório",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit de escritório com grampeadores, furador, e outros itens essenciais.",
+    "fotos": [
+      "kitescrit_1.jpg",
+      "kitescrit_2.jpg",
+      "kitescrit_3.jpg",
+      "kitescrit_4.jpg"
+    ]
+  },
+  {
+    "id": 90,
+    "nome": "Kit papelaria",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Kit de papelaria com cadernos, agendas, folhas e réguas.",
+    "fotos": [
+      "kitpapel_1.jpg",
+      "kitpapel_2.jpg",
+      "kitpapel_3.jpg",
+      "kitpapel_4.jpg"
+    ]
+  },
+  {
+    "id": 91,
+    "nome": "Forno elétrico 46L Philco",
+    "estado": "Novo",
+    "preco": 300,
+    "categoria": "cozinha",
+    "descricao": "Forno elétrico 46L Philco, 127v, ideal para assar, gratinar e tostar alimentos.",
+    "fotos": [
+      "forno_1.jpg",
+      "forno_2.jpg",
+      "forno_3.jpg"
+    ]
+  },
+  {
+    "id": 92,
+    "nome": "Caxepo pequeno",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Caxepo pequeno.",
+    "fotos": [
+      "caxep_1.jpg",
+      "caxep_2.jpg",
+      "caxep_3.jpg"
+    ]
+  },
+  {
+    "id": 93,
+    "nome": "Vaso em cerâmica",
+    "estado": "Usado",
+    "preco": 50,
+    "categoria": "diversos",
+    "descricao": "Vaso em cerâmica.",
+    "fotos": [
+      "vas_1.jpg",
+      "vas_2.jpg"
+    ]
+  },
+  {
+    "id": 94,
+    "nome": "xxx",
     "estado": "Usado",
     "preco": 50,
     "categoria": "diversos",
     "descricao": ".",
     "fotos": [
-      "protb_1.jpg",
-      "protb_2.jpg",
-      "protb_3.jpg",
-      "protb_4.jpg"
+      "vas_1.jpg",
+      "vas_2.jpg"
+    ]
+  },
+  {
+    "id": 95,
+    "nome": "Multiprocessador de alimentos Philco",
+    "estado": "Novo",
+    "preco": 50,
+    "categoria": "eletrodomesticos",
+    "descricao": "Multiprocessador 9 Em 1 Glass Turbo 1400w Pmp1600p Philco Cor Preto, 127v.",
+    "fotos": [
+      "multp_1.jpg",
+      "multp_2.jpg"
     ]
   }
 ]
