@@ -186,8 +186,8 @@
     "nome": "Mesa de centro",
     "estado": "Usado",
     "preco": 100,
-    "categoria": "diversos",
-    "descricao": "Mesa de centro de nas dimensoes () Largura x () Comprimento x ()Altura.",
+    "categoria": "moveis",
+    "descricao": "Mesa de centro de nas dimensoes (50cm) Largura x (43cm) Comprimento x (40cm) Altura.",
     "fotos": [
       "mesa_1.jpg",
       "mesa_2.jpg",
