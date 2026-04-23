@@ -59,7 +59,7 @@
     "id": 5,
     "nome": "Faqueiro Bellagio",
     "estado": "Novo",
-    "preco": 130,
+    "preco": 90,
     "categoria": "cozinha",
     "descricao": "Faqueiro Bellagio 24 peças em inox.",
     "fotos": [
@@ -73,7 +73,7 @@
     "id": 6,
     "nome": "Conjunto de bowls",
     "estado": "Usado",
-    "preco": 80,
+    "preco": 50,
     "categoria": "cozinha",
     "descricao": "Conjunto de 6 bowls pretos em cerâmica.",
     "fotos": [
@@ -87,7 +87,7 @@
     "id": 7,
     "nome": "Aparelho foundue elétrico",
     "estado": "Novo",
-    "preco": 150,
+    "preco": 120,
     "categoria": "cozinha",
     "descricao": "Aparelho de fondue elétrico de 2,4L com controle de temperatura ajustável, 127V. Acompanha 8 garfos e bandeja de suporte",
     "fotos": [
@@ -101,7 +101,7 @@
     "id": 8,
     "nome": "Caixa térmica 18L",
     "estado": "Usado",
-    "preco": 40,
+    "preco": 30,
     "categoria": "diversos",
     "descricao": "Caixa térmica 18 litros usada, ideal para manter bebidas e alimentos frescos em passeios e eventos.",
     "fotos": [
@@ -157,7 +157,7 @@
     "id": 12,
     "nome": "Caixa de ferramentas de plástico",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 30,
     "categoria": "diversos",
     "descricao": "Caixa de ferramentas de plástico, com divisória interna.",
     "fotos": [
@@ -283,7 +283,7 @@
     "id": 21,
     "nome": "Vaso de vidro decorativo",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 40,
     "categoria": "diversos",
     "descricao": "Vaso de vidro decorativo, ideal para complementar a decoração da sua casa.",
     "fotos": [
@@ -298,7 +298,7 @@
     "id": 22,
     "nome": "Assento de elevação",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 30,
     "categoria": "diversos",
     "descricao": "Assento de elevação, ideal para proporcionar conforto e segurança para crianças.",
     "fotos": [
@@ -339,7 +339,7 @@
     "id": 25,
     "nome": "Bowls brancos",
     "estado": "Usado",
-    "preco": 85,
+    "preco": 60,
     "categoria": "cozinha",
     "descricao": "Conjunto de 4 bowls brancos em cerâmica.",
     "fotos": [
@@ -391,7 +391,7 @@
     "id": 29,
     "nome": "Gabinete de banheiro com rodinha e porta",
     "estado": "Usado",
-    "preco": 145,
+    "preco": 100,
     "categoria": "moveis",
     "descricao": "Gabinete de banheiro com rodinha e porta, ideal para organizar seus itens de higiene e beleza.",
     "fotos": [
@@ -419,7 +419,7 @@
     "id": 31,
     "nome": "Penteadeira com espelho e porta",
     "estado": "Usado",
-    "preco": 780,
+    "preco": 300,
     "categoria": "moveis",
     "descricao": "Penteadeira com espelho, gaveta e porta, ideal para organizar seus itens de beleza.",
     "fotos": [
@@ -486,7 +486,7 @@
     "id": 36,
     "nome": "Armario multiuso",
     "estado": "Usado",
-    "preco": 110,
+    "preco": 80,
     "categoria": "moveis",
     "descricao": "Armario branco de madeira com 5 divisorias e duas portas, ideal para organizar seus itens com estilo.",
     "fotos": [
@@ -664,7 +664,7 @@
     "id": 49,
     "nome": "Conjunto de pratinhos de vidro",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 80,
     "categoria": "cozinha",
     "descricao": "Conjunto de pratinhos de vidro (1 grande e 4 pequenos).",
     "fotos": [
@@ -734,7 +734,7 @@
     "id": 54,
     "nome": "Varal retrátil",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 40,
     "categoria": "diversos",
     "descricao": "Varal retratil em metal, ideal para secar roupas em espaços reduzidos.",
     "fotos": [
@@ -789,7 +789,7 @@
     "id": 58,
     "nome": "Guarda-sóis",
     "estado": "Usado",
-    "preco": 100,
+    "preco": 400,
     "categoria": "diversos",
     "descricao": "2 Guarda-sóis usados, ideais para praia e piscina.",
     "fotos": [
@@ -803,7 +803,7 @@
     "id": 59,
     "nome": "Perfurador de areia",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 20,
     "categoria": "diversos",
     "descricao": "2 Perfuradores de areia usados, ideais para praia e piscina.",
     "fotos": [
@@ -857,7 +857,7 @@
     "id": 63,
     "nome": "Jogo de badminton",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 200,
     "categoria": "diversos",
     "descricao": "Jogo de badminton com 4 raquetes, petecas, suporte e rede.",
     "fotos": [
@@ -868,7 +868,7 @@
   {
     "id": 64,
     "nome": "Luminária de vela",
-    "estado": "Usado",
+    "estado": "Novo",
     "preco": 20,
     "categoria": "diversos",
     "descricao": "Luminária de vela em pedra sabão.",
@@ -952,9 +952,9 @@
     "id": 70,
     "nome": "Kit de vasos",
     "estado": "Usado",
-    "preco": 100,
+    "preco": 200,
     "categoria": "diversos",
-    "descricao": "Kit de 4 vasos usados em cerâmica, ideal para decoração.",
+    "descricao": "Kit de 4 vasos usados em cerâmica, ideal para decoração (acompanha planta).",
     "fotos": [
       "kitvaso_1.jpg",
       "kitvaso_2.jpg",
@@ -1227,7 +1227,7 @@
     "id": 92,
     "nome": "Caxepo pequeno",
     "estado": "Usado",
-    "preco": 50,
+    "preco": 20,
     "categoria": "diversos",
     "descricao": "Caxepo pequeno.",
     "fotos": [
@@ -1240,7 +1240,7 @@
     "id": 93,
     "nome": "Vaso em cerâmica",
     "estado": "Usado",
-    "preco": 20,
+    "preco": 40,
     "categoria": "diversos",
     "descricao": "Vaso em cerâmica.",
     "fotos": [
@@ -1252,7 +1252,7 @@
     "id": 94,
     "nome": "Bicicleta Caloi Vulcan aro 29",
     "estado": "Usado",
-    "preco": 500,
+    "preco": 900,
     "categoria": "diversos",
     "descricao": "Bicicleta Caloi Vulcan aro 29 (temos 2 unidades)",
     "fotos": [
