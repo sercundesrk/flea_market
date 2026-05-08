@@ -27,7 +27,7 @@
                       "prato3.jpg",
                       "prato4.jpg"
                   ],
-        "vendido":  true
+        "vendido":  false
     },
     {
         "id":  3,
@@ -222,7 +222,7 @@
                       "cmferramentas_3.jpg",
                       "cmferramentas_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  16,
@@ -898,7 +898,7 @@
                       "escada_3.jpg",
                       "escada_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  62,
