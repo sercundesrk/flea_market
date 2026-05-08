@@ -1,5 +1,33 @@
 [
   {
+    "id": 1,
+    "nome": "Jogo de jantar portugal",
+    "estado": "Novo",
+    "preco": 260,
+    "categoria": "cozinha",
+    "descricao": "Jogo de jantar portugal com 16 peças, porcelana branca e detalhes em azul.",
+    "fotos": [
+      "jantar_azul_1.jpg",
+      "jantar_azul_2.jpg",
+      "jantar_azul_3.jpg",
+      "jantar_azul_4.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Pratos para bateria",
+    "estado": "Usado",
+    "preco": 2000,
+    "categoria": "diversos",
+    "descricao": "Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha bag para transporte.",
+    "fotos": [
+      "prato1.jpg",
+      "prato2.jpg",
+      "prato3.jpg",
+      "prato4.jpg"
+    ]
+  },
+  {
     "id": 3,
     "nome": "Roçadeira Stihl FS160",
     "estado": "Usado",
@@ -11,6 +39,20 @@
       "rocadeira_2.jpg",
       "rocadeira_3.jpg",
       "rocadeira_4.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Cortador de vegetais",
+    "estado": "Usado",
+    "preco": 40,
+    "categoria": "cozinha",
+    "descricao": "Cortador de vegetais Itabras com 3 pés de apoio.",
+    "fotos": [
+      "cortador_1.jpg",
+      "cortador_2.jpg",
+      "cortador_3.jpg",
+      "cortador_4.jpg"
     ]
   },
   {
@@ -1230,50 +1272,3 @@
     ]
   }
 ]
-
-
-
-
-  // {
-  //   "id": 1,
-  //   "nome": "Jogo de jantar portugal",
-  //   "estado": "Novo",
-  //   "preco": 260,
-  //   "categoria": "cozinha",
-  //   "descricao": "Jogo de jantar portugal com 16 peças, porcelana branca e detalhes em azul.",
-  //   "fotos": [
-  //     "jantar_azul_1.jpg",
-  //     "jantar_azul_2.jpg",
-  //     "jantar_azul_3.jpg",
-  //     "jantar_azul_4.jpg"
-  //   ]
-  // },
-  // {
-  //   "id": 2,
-  //   "nome": "Pratos para bateria",
-  //   "estado": "Usado",
-  //   "preco": 2000,
-  //   "categoria": "diversos",
-  //   "descricao": "Kit de Pratos Paiste PST5 com Crash 16, Ride 20 e Chimbal 14. Acompanha bag para transporte.",
-  //   "fotos": [
-  //     "prato1.jpg",
-  //     "prato2.jpg",
-  //     "prato3.jpg",
-  //     "prato4.jpg"
-  //   ]
-  // },
-
-  // {
-  //   "id": 4,
-  //   "nome": "Cortador de vegetais",
-  //   "estado": "Usado",
-  //   "preco": 40,
-  //   "categoria": "cozinha",
-  //   "descricao": "Cortador de vegetais Itabras com 3 pés de apoio.",
-  //   "fotos": [
-  //     "cortador_1.jpg",
-  //     "cortador_2.jpg",
-  //     "cortador_3.jpg",
-  //     "cortador_4.jpg"
-  //   ]
-  // },
