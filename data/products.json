@@ -736,7 +736,7 @@
                       "faq_3.jpg",
                       "faq_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  51,
@@ -1060,7 +1060,7 @@
                       "kitflor_3.jpg",
                       "kitflor_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  73,
