@@ -79,10 +79,12 @@ function mostrarProdutos(lista) {
 }
 
 function filtrar(categoria) {
+  const disponiveis = produtos.filter(p => !p.vendido);
+
   if (categoria === 'todos') {
-    mostrarProdutos(produtos);
+    mostrarProdutos(disponiveis);
   } else {
-    const filtrados = produtos.filter(p => p.categoria === categoria);
+    const filtrados = disponiveis.filter(p => p.categoria === categoria);
     mostrarProdutos(filtrados);
   }
 }
@@ -95,7 +97,8 @@ document.addEventListener('DOMContentLoaded', function() {
 fetch('data/products.json')
   .then(res => res.json())
   .then(data => {
-    produtos = data;
+    // Normaliza o campo para evitar quebra com itens antigos sem "vendido"
+    produtos = data.map(prod => ({ ...prod, vendido: Boolean(prod.vendido) }));
     
     // Handle URL parameters for category filtering
     const urlParams = new URLSearchParams(window.location.search);
@@ -104,6 +107,6 @@ fetch('data/products.json')
     if (categoria) {
       filtrar(categoria);
     } else {
-      mostrarProdutos(produtos);
+      mostrarProdutos(produtos.filter(p => !p.vendido));
     }
   });

@@ -40,7 +40,7 @@
     fetch('data/products.json')
       .then(res => res.json())
       .then(produtos => {
-        const produto = produtos.find(p => p.id == id);
+        const produto = produtos.find(p => p.id == id && !p.vendido);
         const container = document.getElementById('detalhes-produto');
 
         if (produto) {
