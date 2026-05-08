@@ -12,7 +12,7 @@
                       "jantar_azul_3.jpg",
                       "jantar_azul_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  2,
@@ -27,7 +27,7 @@
                       "prato3.jpg",
                       "prato4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  3,
@@ -57,7 +57,7 @@
                       "cortador_3.jpg",
                       "cortador_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  5,
@@ -721,7 +721,7 @@
                       "prat_3.jpg",
                       "prat_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  50,
@@ -1030,7 +1030,7 @@
                       "kitvaso_3.jpg",
                       "kitvaso_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  71,
@@ -1075,7 +1075,7 @@
                       "kitjantar_3.jpg",
                       "kitjantar_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  74,
