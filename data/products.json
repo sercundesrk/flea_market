@@ -162,7 +162,7 @@
                       "ferro_3.jpg",
                       "ferro_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  12,
@@ -404,7 +404,7 @@
         "id":  28,
         "nome":  "Sapateira de madeira",
         "estado":  "Usado",
-        "preco":  145,
+        "preco":  150,
         "categoria":  "moveis",
         "descricao":  "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
         "fotos":  [
@@ -464,7 +464,7 @@
         "id":  32,
         "nome":  "Aparador adega retro off white",
         "estado":  "Usado",
-        "preco":  145,
+        "preco":  150,
         "categoria":  "moveis",
         "descricao":  "Aparador adega retro off white, ideal para armazenar e exibir suas bebidas com estilo.",
         "fotos":  [
@@ -961,7 +961,7 @@
     {
         "id":  66,
         "nome":  "Formas para pizza em pedra sabão",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  120,
         "categoria":  "cozinha",
         "descricao":  "2 formas para pizza em pedra sabão.",
@@ -976,7 +976,7 @@
     {
         "id":  67,
         "nome":  "Prato para pizza em pedra sabão",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  60,
         "categoria":  "cozinha",
         "descricao":  "1 prato para pizza em pedra sabão.",
@@ -1035,7 +1035,7 @@
     {
         "id":  71,
         "nome":  "Kit de decoração em pedra sabão",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  200,
         "categoria":  "diversos",
         "descricao":  "Kit de decoração em pedra sabão, ideal para decoração.",
@@ -1080,7 +1080,7 @@
     {
         "id":  74,
         "nome":  "Kit vasos 1",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  70,
         "categoria":  "diversos",
         "descricao":  "Conjunto de 5 vasos na cor creme.",
@@ -1095,7 +1095,7 @@
     {
         "id":  75,
         "nome":  "Kit vasos 2",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  70,
         "categoria":  "diversos",
         "descricao":  "Conjunto de 5 vasos na cor rosa.",
@@ -1110,7 +1110,7 @@
     {
         "id":  76,
         "nome":  "Vaso suspenso para plantas",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  40,
         "categoria":  "diversos",
         "descricao":  "Vaso suspenso para plantas, ideal para decoração.",
@@ -1356,7 +1356,7 @@
         "id":  95,
         "nome":  "Multiprocessador de alimentos Philco",
         "estado":  "Novo",
-        "preco":  190,
+        "preco":  200,
         "categoria":  "eletrodomesticos",
         "descricao":  "Multiprocessador 9 Em 1 Glass Turbo 1400w Pmp1600p Philco Cor Preto, 127v.",
         "fotos":  [
