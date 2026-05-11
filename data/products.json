@@ -117,7 +117,7 @@
                       "caixa_termica_3.jpg",
                       "caixa_termica_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  9,
@@ -661,7 +661,7 @@
                       "potes_3.jpg",
                       "potes_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  46,
@@ -1363,6 +1363,6 @@
                       "multp_1.jpg",
                       "multp_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     }
 ]
