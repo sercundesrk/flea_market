@@ -42,7 +42,7 @@
                       "rocadeira_3.jpg",
                       "rocadeira_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  4,
@@ -413,7 +413,7 @@
                       "sapateira_3.jpg",
                       "sapateira_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  29,
@@ -564,7 +564,7 @@
     {
         "id":  39,
         "nome":  "Kit 2 mesas de cabeceira",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  320,
         "categoria":  "moveis",
         "descricao":  "Kit 2 mesas de cabeceira com 3 gavetas, ideal para organizar seus itens ao lado da cama.",
@@ -578,7 +578,7 @@
     {
         "id":  40,
         "nome":  "Grade de protecao para cama/berço infantil",
-        "estado":  "Usado",
+        "estado":  "Novo",
         "preco":  140,
         "categoria":  "moveis",
         "descricao":  "Grade de proteção para cama/berço infantil. Temos 2 unidades.",
@@ -603,7 +603,7 @@
                       "comoda_3.jpg",
                       "comoda_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  42,
@@ -1036,7 +1036,7 @@
         "id":  71,
         "nome":  "Kit de decoração em pedra sabão",
         "estado":  "Novo",
-        "preco":  200,
+        "preco":  300,
         "categoria":  "diversos",
         "descricao":  "Kit de decoração em pedra sabão, ideal para decoração.",
         "fotos":  [
@@ -1311,7 +1311,7 @@
                       "forno_2.jpg",
                       "forno_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  92,
