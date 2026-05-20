@@ -1563,7 +1563,7 @@
     },
     {
         "id":  110,
-        "nome":  "Quadro de flores",
+        "nome":  "Quadro de flores 2",
         "estado":  "Usado",
         "preco":  100,
         "categoria":  "diversos",
@@ -1709,8 +1709,8 @@
     },
     {
         "id":  120,
-        "nome":  "x",
-        "estado":  "Ar condicionado",
+        "nome":  "Ar condicionado",
+        "estado":  "Usado",
         "preco":  1300,
         "categoria":  "eletrodomesticos",
         "descricao":  "Ar condicionado split dual inverter quente/frio, 9000 BTUS, 220v LG. Retirada e instalação por conta do comprador.",
