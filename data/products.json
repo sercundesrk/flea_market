@@ -1537,7 +1537,7 @@
         "id":  108,
         "nome":  "Kit de potes de vidro quadrados",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999,
         "categoria":  "cozinha",
         "descricao":  "Kit de 5 potes de vidro quadrados com tampa.",
         "fotos":  [
@@ -1607,7 +1607,7 @@
         "id":  113,
         "nome":  "Caneta Crown Chrome",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999,
         "categoria":  "diversos",
         "descricao":  "Caneta Crown Chrome.",
         "fotos":  [
@@ -1621,7 +1621,7 @@
         "id":  114,
         "nome":  "Caneta Crown",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999,
         "categoria":  "diversos",
         "descricao":  "Caneta Crown.",
         "fotos":  [
@@ -1740,7 +1740,7 @@
         "id":  122,
         "nome":  "Bomboniere de Vidro",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999,
         "categoria":  "cozinha",
         "descricao":  "Bombonieria de vidro com tampa, ideal para armazenar doces e guloseimas.",
         "fotos":  [
@@ -1756,7 +1756,7 @@
         "id":  123,
         "nome":  "TV LG Smart 32 polegadas",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999,
         "categoria":  "eletrodomesticos",
         "descricao":  "TV LG Smart 32 polegadas, ideal para sua sala de estar.",
         "fotos":  [
@@ -1782,7 +1782,7 @@
         "id":  125,
         "nome":  "Honda city 2021",
         "estado":  "Usado",
-        "preco":  x,
+        "preco":  999999,
         "categoria":  "diversos",
         "descricao":  "Honda City, 2021, cinza, alcool/gasolina, ideal para sua família.",
         "fotos":  [
