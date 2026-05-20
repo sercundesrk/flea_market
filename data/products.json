@@ -1364,5 +1364,434 @@
                       "multp_2.jpg"
                   ],
         "vendido":  true
+    },
+    {
+        "id":  96,
+        "nome":  "Panela de arroz elétrica",
+        "estado":  "Usado",
+        "preco":  200,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Panela de arroz elétrica 127v, ideal para preparar arroz de forma prática e rápida.",
+        "fotos":  [
+                      "panela_arroz_1.jpg",
+                      "panela_arroz_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  97,
+        "nome":  "Torradeira elétrica",
+        "estado":  "Usado",
+        "preco":  150,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Torradeira elétrica xxv, ideal para preparar torradas de forma prática e rápida.",
+        "fotos":  [
+                      "torradeira_1.jpg",
+                      "torradeira_2.jpg",
+                      "torradeira_3.jpg",
+                      "torradeira_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  98,
+        "nome":  "Manta para sofá",
+        "estado":  "Usado",
+        "preco":  20,
+        "categoria":  "diversos",
+        "descricao":  "Manta para sofá 2,20m x 1,50m. Temos nas cores coral e azul marinho cru.",
+        "fotos":  [
+                      "manta_1.jpg",
+                      "manta_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  99,
+        "nome":  "Cesto para roupas de bambu",
+        "estado":  "Usado",
+        "preco":  50,
+        "categoria":  "diversos",
+        "descricao":  "Cesto para roupas de bambu com tampa nas dimensoes 40x30x59cm. Temos 3 unidades.",
+        "fotos":  [
+                      "cesto_roupas_1.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  100,
+        "nome":  "Kit de mesinhas retro",
+        "estado":  "Usado",
+        "preco":  60,
+        "categoria":  "moveis",
+        "descricao":  "Kit de 3 mesinhas retro em bom estado.",
+        "fotos":  [
+                      "banqueta_1.jpg",
+                      "banqueta_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  101,
+        "nome":  "Kit churrasco",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "cozinha",
+        "descricao":  "Kit churrasco com capa, 3 facas e 1 garfo em bom estado.",
+        "fotos":  [
+                      "kit_churras_1.jpg",
+                      "kit_churras_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  102,
+        "nome":  "Kit americano em bambu rustico",
+        "estado":  "Usado",
+        "preco":  20,
+        "categoria":  "cozinha",
+        "descricao":  "Kit americano em bambu rustico com 4 peças em bom estado (45x30cm).",
+        "fotos":  [
+                      "kit_americano_1.jpg",
+                      "kit_americano_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  103,
+        "nome":  "Kit americano de croche",
+        "estado":  "Usado",
+        "preco":  50,
+        "categoria":  "cozinha",
+        "descricao":  "Kit americano de croche com 4 peças em bom estado.",
+        "fotos":  [
+                      "supla_croche_1.jpg",
+                      "supla_croche_2.jpg",
+                      "supla_croche_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  104,
+        "nome":  "Kit americano de pano",
+        "estado":  "Usado",
+        "preco":  50,
+        "categoria":  "cozinha",
+        "descricao":  "Kit americano de pano com 4 peças em bom estado.",
+        "fotos":  [
+                      "supla_pano_1.jpg",
+                      "supla_pano_2.jpg",
+                      "supla_pano_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  105,
+        "nome":  "Porta copos de bambu",
+        "estado":  "Usado",
+        "preco":  20,
+        "categoria":  "cozinha",
+        "descricao":  "Porta copos de bambu com 4 peças em bom estado.",
+        "fotos":  [
+                      "porta_copos_1.jpg",
+                      "porta_copos_2.jpg",
+                      "porta_copos_3.jpg",
+                      "porta_copos_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  106,
+        "nome":  "Kit potinhos de vidro",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "cozinha",
+        "descricao":  "Kit potinhos de vidro com 3 peças em bom estado.",
+        "fotos":  [
+                      "kit_pot_1.jpg",
+                      "kit_pot_2.jpg",
+                      "kit_pot_3.jpg",
+                      "kit_pot_4.jpg",
+                      "kit_pot_5.jpg",
+                      "kit_pot_6.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  107,
+        "nome":  "Kit de potes de vidro redondos",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "cozinha",
+        "descricao":  "Kit de 5 potes de vidro redondos com tampa.",
+        "fotos":  [
+                      "kit_pott_1.jpg",
+                      "kit_pott_2.jpg",
+                      "kit_pott_3.jpg",
+                      "kit_pott_4.jpg",
+                      "kit_pott_5.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  108,
+        "nome":  "Kit de potes de vidro quadrados",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "cozinha",
+        "descricao":  "Kit de 5 potes de vidro quadrados com tampa.",
+        "fotos":  [
+                      "kit_pottt_1.jpg",
+                      "kit_pottt_2.jpg",
+                      "kit_pottt_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  109,
+        "nome":  "Quadro de flores",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "diversos",
+        "descricao":  "Quadro de flores em bom estado 1,10x0,6m.",
+        "fotos":  [
+                      "quadro_flores_1.jpg",
+                      "quadro_flores_2.jpg",
+                      "quadro_flores_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  110,
+        "nome":  "Quadro de flores",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "diversos",
+        "descricao":  "Quadro de flores em bom estado 1,10x0,6m.",
+        "fotos":  [
+                      "quadro_flores_1.jpg",
+                      "quadro_flores_2.jpg",
+                      "quadro_flores_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  111,
+        "nome":  "Kit potes para temperos",
+        "estado":  "Usado",
+        "preco":  30,
+        "categoria":  "cozinha",
+        "descricao":  "Kit 6 potes para temperos em bom estado.",
+        "fotos":  [
+                      "temp_1.jpg",
+                      "temp_2.jpg",
+                      "temp_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  112,
+        "nome":  "Conjunto de formas ovais",
+        "estado":  "Usado",
+        "preco":  30,
+        "categoria":  "cozinha",
+        "descricao":  "Conjunto de 3 formas ovais.",
+        "fotos":  [
+                      "oval_1.jpg",
+                      "oval_2.jpg",
+                      "oval_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  113,
+        "nome":  "Caneta Crown Chrome",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "diversos",
+        "descricao":  "Caneta Crown Chrome.",
+        "fotos":  [
+                      "caneta_1.jpg",
+                      "caneta_2.jpg",
+                      "caneta_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  114,
+        "nome":  "Caneta Crown",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "diversos",
+        "descricao":  "Caneta Crown.",
+        "fotos":  [
+                      "caneta1_1.jpg",
+                      "caneta1_2.jpg",
+                      "caneta1_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  115,
+        "nome":  "Garrafa termica com cabo de madeira",
+        "estado":  "Novo",
+        "preco":  50,
+        "categoria":  "cozinha",
+        "descricao":  "Garrafa termica com cabo de madeira.",
+        "fotos":  [
+                      "garrafa_1.jpg",
+                      "garrafa_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  116,
+        "nome":  "Kit utensilhos para cozinha",
+        "estado":  "Novo",
+        "preco":  50,
+        "categoria":  "cozinha",
+        "descricao":  "Kit com 19 utensilhos para cozinha.",
+        "fotos":  [
+                      "utensilhos_1.jpg",
+                      "utensilhos_2.jpg",
+                      "utensilhos_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  117,
+        "nome":  "Violão Start Giannini",
+        "estado":  "Usado",
+        "preco":  150,
+        "categoria":  "diversos",
+        "descricao":  "Violão Start Giannini com cordas de aço.",
+        "fotos":  [
+                      "violao_1.jpg",
+                      "violao_2.jpg",
+                      "violao_3.jpg",
+                      "violao_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  118,
+        "nome":  "Adega",
+        "estado":  "Novo",
+        "preco":  1500,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Adega para vinhos Brastemp 127v.",
+        "fotos":  [
+                      "adegabrast_1.jpg",
+                      "adegabrast_2.jpg",
+                      "adegabrast_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  119,
+        "nome":  "Poltrona de amamentação com puff",
+        "estado":  "Usado",
+        "preco":  800,
+        "categoria":  "moveis",
+        "descricao":  "Poltrona de amamentação com puff.",
+        "fotos":  [
+                      "poltrona_1.jpg",
+                      "poltrona_2.jpg",
+                      "poltrona_3.jpg",
+                      "poltrona_4.jpg",
+                      "poltrona_5.jpg",
+                      "poltrona_6.jpg",
+                      "poltrona_7.jpg",
+                      "poltrona_8.jpg",
+                      "poltrona_9.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  120,
+        "nome":  "x",
+        "estado":  "Ar condicionado",
+        "preco":  1300,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Ar condicionado split dual inverter quente/frio, 9000 BTUS, 220v LG. Retirada e instalação por conta do comprador.",
+        "fotos":  [
+                      "arcondicionado_1.jpg",
+                      "arcondicionado_2.jpg",
+                      "arcondicionado_3.jpg",
+                      "arcondicionado_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  121,
+        "nome":  "Quadro para tampinhas e rolhas",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "diversos",
+        "descricao":  "Quadro com tampa de vidro para tampinhas e rolhas (100 reais cada unidade).",
+        "fotos":  [
+                      "quadro_1.jpg",
+                      "quadro_2.jpg",
+                      "quadro_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  122,
+        "nome":  "Bomboniere de Vidro",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "cozinha",
+        "descricao":  "Bombonieria de vidro com tampa, ideal para armazenar doces e guloseimas.",
+        "fotos":  [
+                      "bombonieri_1.jpg",
+                      "bombonieri_2.jpg",
+                      "bombonieri_3.jpg",
+                      "bombonieri_4.jpg",
+                      "bombonieri_5.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  123,
+        "nome":  "TV LG Smart 32 polegadas",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "TV LG Smart 32 polegadas, ideal para sua sala de estar.",
+        "fotos":  [
+                      "tv_1.jpg",
+                      "tv_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  124,
+        "nome":  "TV LG Smart 43 polegadas",
+        "estado":  "Usado",
+        "preco":  1000,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "TV LG Smart 43 polegadas, ideal para sua sala de estar.",
+        "fotos":  [
+                      "tv1_1.jpg",
+                      "tv_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  125,
+        "nome":  "Honda city 2021",
+        "estado":  "Usado",
+        "preco":  x,
+        "categoria":  "diversos",
+        "descricao":  "Honda City, 2021, cinza, alcool/gasolina, ideal para sua família.",
+        "fotos":  [
+                      "honda_city_1.jpg",
+                      "honda_city_2.jpg",
+                      "honda_city_3.jpg",
+                      "honda_city_4.jpg",
+                      "honda_city_5.jpg"
+                  ],
+        "vendido":  false
     }
 ]
