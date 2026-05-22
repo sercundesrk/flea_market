@@ -1369,7 +1369,7 @@
         "id":  96,
         "nome":  "Panela de arroz elétrica",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  200,
         "categoria":  "eletrodomesticos",
         "descricao":  "Panela de arroz elétrica 127v, ideal para preparar arroz de forma prática e rápida.",
         "fotos":  [
@@ -1382,7 +1382,7 @@
         "id":  97,
         "nome":  "Torradeira elétrica",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  150,
         "categoria":  "eletrodomesticos",
         "descricao":  "Torradeira elétrica xxv, ideal para preparar torradas de forma prática e rápida.",
         "fotos":  [
@@ -1397,12 +1397,14 @@
         "id":  98,
         "nome":  "Manta para sofá",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  20,
         "categoria":  "diversos",
-        "descricao":  "Manta para sofá 2,20m x 1,50m. Temos nas cores coral e azul marinho cru.",
+        "descricao":  "Manta para sofá 2,20m x 1,50m. Temos nas cores coral, azul marinho cru, verde mesclado e caramelo.",
         "fotos":  [
                       "manta_1.jpg",
-                      "manta_2.jpg"
+                      "manta_2.jpg",
+                      "manta_3.jpg",
+                      "manta_4.jpg"
                   ],
         "vendido":  false
     },
@@ -1410,7 +1412,7 @@
         "id":  99,
         "nome":  "Cesto para roupas de bambu",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "diversos",
         "descricao":  "Cesto para roupas de bambu com tampa nas dimensoes 40x30x59cm. Temos 3 unidades.",
         "fotos":  [
@@ -1422,7 +1424,7 @@
         "id":  100,
         "nome":  "Kit de mesinhas retro",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  60,
         "categoria":  "moveis",
         "descricao":  "Kit de 3 mesinhas retro em bom estado.",
         "fotos":  [
@@ -1435,7 +1437,7 @@
         "id":  101,
         "nome":  "Kit churrasco",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  100,
         "categoria":  "cozinha",
         "descricao":  "Kit churrasco com capa, 3 facas e 1 garfo em bom estado.",
         "fotos":  [
@@ -1448,9 +1450,9 @@
         "id":  102,
         "nome":  "Kit americano em bambu rustico",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  40,
         "categoria":  "cozinha",
-        "descricao":  "Kit americano em bambu rustico com 4 peças em bom estado (45x30cm).",
+        "descricao":  "Kit americano em bambu rustico com 6 peças em bom estado (45x30cm).",
         "fotos":  [
                       "kit_americano_1.jpg",
                       "kit_americano_2.jpg"
@@ -1459,9 +1461,9 @@
     },
     {
         "id":  103,
-        "nome":  "Kit americano de croche",
-        "estado":  "Usado",
-        "preco":  999999,
+        "nome":  "Kit americano em croche",
+        "estado":  "Novo",
+        "preco":  80,
         "categoria":  "cozinha",
         "descricao":  "Kit americano de croche com 4 peças em bom estado.",
         "fotos":  [
@@ -1475,7 +1477,7 @@
         "id":  104,
         "nome":  "Kit americano de pano",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  30,
         "categoria":  "cozinha",
         "descricao":  "Kit americano de pano com 4 peças em bom estado.",
         "fotos":  [
@@ -1489,9 +1491,9 @@
         "id":  105,
         "nome":  "Porta copos de bambu",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  20,
         "categoria":  "cozinha",
-        "descricao":  "Porta copos de bambu com 4 peças em bom estado.",
+        "descricao":  "Porta copos de bambu com 6 peças em bom estado.",
         "fotos":  [
                       "porta_copos_1.jpg",
                       "porta_copos_2.jpg",
@@ -1504,7 +1506,7 @@
         "id":  106,
         "nome":  "Kit potinhos de vidro",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "cozinha",
         "descricao":  "Kit potinhos de vidro com 3 peças em bom estado.",
         "fotos":  [
@@ -1521,7 +1523,7 @@
         "id":  107,
         "nome":  "Kit de potes de vidro redondos",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "cozinha",
         "descricao":  "Kit de 5 potes de vidro redondos com tampa.",
         "fotos":  [
@@ -1537,7 +1539,7 @@
         "id":  108,
         "nome":  "Kit de potes de vidro quadrados",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  100,
         "categoria":  "cozinha",
         "descricao":  "Kit de 5 potes de vidro quadrados com tampa.",
         "fotos":  [
@@ -1551,7 +1553,7 @@
         "id":  109,
         "nome":  "Quadro de flores",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  100,
         "categoria":  "diversos",
         "descricao":  "Quadro de flores em bom estado 1,10x0,6m.",
         "fotos":  [
@@ -1565,7 +1567,7 @@
         "id":  110,
         "nome":  "Quadro de flores 2",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  100,
         "categoria":  "diversos",
         "descricao":  "Quadro de flores em bom estado 1,10x0,6m.",
         "fotos":  [
@@ -1579,7 +1581,7 @@
         "id":  111,
         "nome":  "Kit potes para temperos",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  30,
         "categoria":  "cozinha",
         "descricao":  "Kit 6 potes para temperos em bom estado.",
         "fotos":  [
@@ -1593,7 +1595,7 @@
         "id":  112,
         "nome":  "Conjunto de formas ovais",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  40,
         "categoria":  "cozinha",
         "descricao":  "Conjunto de 3 formas ovais.",
         "fotos":  [
@@ -1607,7 +1609,7 @@
         "id":  113,
         "nome":  "Caneta Crown Chrome",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  25,
         "categoria":  "diversos",
         "descricao":  "Caneta Crown Chrome.",
         "fotos":  [
@@ -1621,7 +1623,7 @@
         "id":  114,
         "nome":  "Caneta Crown",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  40,
         "categoria":  "diversos",
         "descricao":  "Caneta Crown.",
         "fotos":  [
@@ -1635,7 +1637,7 @@
         "id":  115,
         "nome":  "Garrafa termica com cabo de madeira",
         "estado":  "Novo",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "cozinha",
         "descricao":  "Garrafa termica com cabo de madeira.",
         "fotos":  [
@@ -1648,7 +1650,7 @@
         "id":  116,
         "nome":  "Kit utensilhos para cozinha",
         "estado":  "Novo",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "cozinha",
         "descricao":  "Kit com 19 utensilhos para cozinha.",
         "fotos":  [
@@ -1662,7 +1664,7 @@
         "id":  117,
         "nome":  "Violão Start Giannini",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  150,
         "categoria":  "diversos",
         "descricao":  "Violão Start Giannini com cordas de aço.",
         "fotos":  [
@@ -1726,9 +1728,9 @@
         "id":  121,
         "nome":  "Quadro para tampinhas e rolhas",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  50,
         "categoria":  "diversos",
-        "descricao":  "Quadro com tampa de vidro para tampinhas e rolhas (100 reais cada unidade).",
+        "descricao":  "Quadro com tampa de vidro para tampinhas e rolhas (50 reais cada unidade).",
         "fotos":  [
                       "quadro_1.jpg",
                       "quadro_2.jpg",
@@ -1740,9 +1742,9 @@
         "id":  122,
         "nome":  "Bomboniere de Vidro",
         "estado":  "Usado",
-        "preco":  999999,
+        "preco":  60,
         "categoria":  "cozinha",
-        "descricao":  "Bombonieria de vidro com tampa, ideal para armazenar doces e guloseimas.",
+        "descricao":  "Bomboniere de vidro com tampa, ideal para armazenar doces e guloseimas.",
         "fotos":  [
                       "bombonieri_1.jpg",
                       "bombonieri_2.jpg",
@@ -1782,7 +1784,7 @@
         "id":  125,
         "nome":  "Honda city 2021",
         "estado":  "Usado",
-        "preco":  9999999999,
+        "preco":  89000,
         "categoria":  "diversos",
         "descricao":  "Honda City, 2021, cinza, alcool/gasolina, ideal para sua família.",
         "fotos":  [
@@ -1790,7 +1792,8 @@
                       "honda_city_2.jpg",
                       "honda_city_3.jpg",
                       "honda_city_4.jpg",
-                      "honda_city_5.jpg"
+                      "honda_city_5.jpg",
+                      "honda_city_6.jpg"
                   ],
         "vendido":  false
     }
