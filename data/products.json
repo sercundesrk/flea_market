@@ -27,7 +27,7 @@
                       "prato3.jpg",
                       "prato4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  3,
@@ -87,7 +87,7 @@
                       "bowls_3.jpg",
                       "bowls_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  7,
@@ -147,7 +147,7 @@
                       "aspirador_3.jpg",
                       "aspirador_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  11,
@@ -177,7 +177,7 @@
                       "cpferramentas_3.jpg",
                       "cpferramentas_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  13,
@@ -192,7 +192,7 @@
                       "multiprocessador_3.jpg",
                       "multiprocessador_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  14,
@@ -252,7 +252,7 @@
                       "jogosuco_3.jpg",
                       "jogosuco_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  18,
@@ -297,7 +297,7 @@
                       "jcama_3.jpg",
                       "jcama_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  21,
@@ -370,7 +370,7 @@
                       "bowlsbranco_1.jpg",
                       "bowlsbranco_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  26,
@@ -382,7 +382,7 @@
         "fotos":  [
                       "xicarabranca_1.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  27,
@@ -428,7 +428,7 @@
                       "armpiabanheiro_3.jpg",
                       "armpiabanheiro_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  30,
@@ -443,7 +443,7 @@
                       "armariobanheiro2_3.jpg",
                       "armariobanheiro2_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  31,
@@ -530,7 +530,7 @@
                       "armbrinq_3.jpg",
                       "armbrinq_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  37,
@@ -573,7 +573,7 @@
                       "criadom_2.jpg",
                       "criadom_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  40,
@@ -618,7 +618,7 @@
                       "comodaretro_3.jpg",
                       "comodaretro_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  43,
@@ -633,7 +633,7 @@
                       "prateleira_3.jpg",
                       "prateleira_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  44,
@@ -646,7 +646,7 @@
                       "pratmadeira_1.jpg",
                       "pratmadeira_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  45,
@@ -781,7 +781,7 @@
                       "caipi_3.jpg",
                       "caipi_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  54,
@@ -795,7 +795,7 @@
                       "varal_2.jpg",
                       "varal_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  55,
@@ -810,7 +810,7 @@
                       "sob_3.jpg",
                       "sob_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  56,
@@ -840,7 +840,7 @@
                       "vinho_3.jpg",
                       "vinho_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  58,
@@ -926,7 +926,7 @@
                       "badminton_1.jpg",
                       "badminton_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  64,
@@ -1120,7 +1120,7 @@
                       "vasop_3.jpg",
                       "vasop_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  77,
@@ -1150,7 +1150,7 @@
                       "kitvolei_3.jpg",
                       "kitvolei_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  79,
@@ -1228,7 +1228,7 @@
         "fotos":  [
                       "bateria_1.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  85,
@@ -1252,7 +1252,7 @@
         "fotos":  [
                       "rastelo_1.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  88,
@@ -1350,7 +1350,7 @@
         "fotos":  [
                       "bicicleta_1.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  95,
@@ -1658,7 +1658,7 @@
                       "utensilhos_2.jpg",
                       "utensilhos_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  117,
@@ -1673,7 +1673,7 @@
                       "violao_3.jpg",
                       "violao_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  118,
@@ -1752,7 +1752,7 @@
                       "bombonieri_4.jpg",
                       "bombonieri_5.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  123,
@@ -1765,7 +1765,7 @@
                       "tv_1.jpg",
                       "tv_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  124,
@@ -1778,13 +1778,13 @@
                       "tv1_1.jpg",
                       "tv_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  125,
         "nome":  "Honda city 2021",
         "estado":  "Usado",
-        "preco":  89000,
+        "preco":  90000,
         "categoria":  "diversos",
         "descricao":  "Honda City, 2021, cinza, alcool/gasolina, ideal para sua família.",
         "fotos":  [
