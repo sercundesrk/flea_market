@@ -386,7 +386,7 @@
     },
     {
         "id":  27,
-        "nome":  "Jogo de mesa em branco e preto",
+        "nome":  "Jogo de jantar branco e preto",
         "estado":  "Usado",
         "preco":  270,
         "categoria":  "cozinha",
@@ -1282,7 +1282,7 @@
                       "kitescrit_3.jpg",
                       "kitescrit_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  90,
@@ -1384,7 +1384,7 @@
         "estado":  "Usado",
         "preco":  150,
         "categoria":  "eletrodomesticos",
-        "descricao":  "Torradeira elétrica xxv, ideal para preparar torradas de forma prática e rápida.",
+        "descricao":  "Torradeira elétrica 127v, ideal para preparar torradas de forma prática e rápida.",
         "fotos":  [
                       "torradeira_1.jpg",
                       "torradeira_2.jpg",
@@ -1416,7 +1416,10 @@
         "categoria":  "diversos",
         "descricao":  "Cesto para roupas de bambu com tampa nas dimensoes 40x30x59cm. Temos 3 unidades.",
         "fotos":  [
-                      "cesto_roupas_1.jpg"
+                      "cesto_roupas_1.jpg",
+                      "cesto_roupas_2.jpg",
+                      "cesto_roupas_3.jpg",
+                      "cesto_roupas_4.jpg"
                   ],
         "vendido":  false
     },
@@ -1571,9 +1574,8 @@
         "categoria":  "diversos",
         "descricao":  "Quadro de flores em bom estado 1,10x0,6m.",
         "fotos":  [
-                      "quadro_flores_1.jpg",
-                      "quadro_flores_2.jpg",
-                      "quadro_flores_3.jpg"
+                      "quadro_flores2_1.jpg",
+                      "quadro_flores2_2.jpg"
                   ],
         "vendido":  false
     },
@@ -1794,6 +1796,171 @@
                       "honda_city_4.jpg",
                       "honda_city_5.jpg",
                       "honda_city_6.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  126,
+        "nome":  "Geladeira eletrolux df42x, 127v",
+        "estado":  "Usado",
+        "preco":  1600,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Geladeira Electrolux df42x, 127v, ideal para sua cozinha.",
+        "fotos":  [
+                      "geladeira_1.jpg",
+                      "geladeira_2.jpg",
+                      "geladeira_3.jpg",
+                      "geladeira_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  127,
+        "nome":  "Fogao 4 bocas Brastemp inox",
+        "estado":  "Usado",
+        "preco":  850,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Fogao 4 bocas Brastemp inox com acendedor automatico, ideal para sua cozinha.",
+        "fotos":  [
+                      "fogao_1.jpg",
+                      "fogao_2.jpg",
+                      "fogao_3.jpg",
+                      "fogao_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  128,
+        "nome":  "Suqueira de vidro",
+        "estado":  "Usado",
+        "preco":  80,
+        "categoria":  "cozinha",
+        "descricao":  "Suqueira de vidro, ideal para sua cozinha.",
+        "fotos":  [
+                      "agua_1.jpg",
+                      "agua_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  129,
+        "nome":  "Batedeira orbital philips walita, 127v",
+        "estado":  "Novo",
+        "preco":  300,
+        "categoria":  "cozinha",
+        "descricao":  "Batedeira orbital Philips Walita, ideal para sua cozinha.",
+        "fotos":  [
+                      "batedeira_1.jpg",
+                      "batedeira_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  130,
+        "nome":  "Chaleira retro",
+        "estado":  "Usado",
+        "preco":  30,
+        "categoria":  "cozinha",
+        "descricao":  "Chaleira retro que apita, ideal para sua cozinha.",
+        "fotos":  [
+                      "chale_1.jpg",
+                      "chale_2.jpg",
+                      "chale_3.jpg",
+                      "chale_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  131,
+        "nome":  "Chaleira eletrica eletrolux de aço escovado, 127v",
+        "estado":  "Usado",
+        "preco":  150,
+        "categoria":  "cozinha",
+        "descricao":  "Chaleira eletrica Eletrolux de aço escovado, ideal para sua cozinha.",
+        "fotos":  [
+                      "chale_ele_1.jpg",
+                      "chale2_ele_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  132,
+        "nome":  "Rack para TV",
+        "estado":  "Usado",
+        "preco":  100,
+        "categoria":  "moveis",
+        "descricao":  "Rack para TV, ideal para sua sala.",
+        "fotos":  [
+                      "rack_1.jpg",
+                      "rack_2.jpg",
+                      "rack_3.jpg",
+                      "rack_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  133,
+        "nome":  "Suporte articulado para TV",
+        "estado":  "Usado",
+        "preco":  50,
+        "categoria":  "diversos",
+        "descricao":  "Suporte articulado para TV, ideal para sua sala ou quarto.",
+        "fotos":  [
+                      "suporte_1.jpg",
+                      "suporte_2.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  134,
+        "nome":  "Ventilador arno, 127v",
+        "estado":  "Usado",
+        "preco":  150,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Ventilador Arno, ideal para sua sala ou quarto.",
+        "fotos":  [
+                      "venti_1.jpg",
+                      "venti_2.jpg",
+                      "venti_3.jpg",
+                      "venti_4.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  135,
+        "nome":  "Umidificador de ar Britânia, bivolt",
+        "estado":  "Usado",
+        "preco":  80,
+        "categoria":  "eletrodomesticos",
+        "descricao":  "Umidificador de ar Britânia, bivolt, ideal para sua sala ou quarto.",
+        "fotos":  [
+                      "umid_1.jpg",
+                      "umid_2.jpg",
+                      "umid_3.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  136,
+        "nome":  "Kit 10 potes de plástico - 500ml",
+        "estado":  "Novo",
+        "preco":  10,
+        "categoria":  "cozinha",
+        "descricao":  "Kit de potes de plástico redondo com tampa de 500ml, ideal para sua cozinha. (Temos 2 kit, um na cor azul e outro na cor vermelho).",
+        "fotos":  [
+                      "potes_plastico_1.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  137,
+        "nome":  "Cama superking box com colchão Simmmons first firme",
+        "estado":  "Usado",
+        "preco":  4000,
+        "categoria":  "moveis",
+        "descricao":  "Cama superking box bipartido com colchão Simmmons first firme (2,03 x 1,93), ideal para seu quarto.",
+        "fotos":  [
+                      "cama_1.jpg"
                   ],
         "vendido":  false
     }
