@@ -1238,7 +1238,10 @@
         "categoria":  "diversos",
         "descricao":  "Enxadão.",
         "fotos":  [
-                      "enxadao_1.jpg"
+                      "enxadao_1.jpg",
+                      "enxadao_2.jpg",
+                      "enxadao_3.jpg",
+                      "enxadao_4.jpg"
                   ],
         "vendido":  false
     },
@@ -1445,7 +1448,9 @@
         "descricao":  "Kit churrasco com capa, 3 facas e 1 garfo em bom estado.",
         "fotos":  [
                       "kit_churras_1.jpg",
-                      "kit_churras_2.jpg"
+                      "kit_churras_2.jpg",
+                      "kit_churras_3.jpg",
+                      "kit_churras_4.jpg"
                   ],
         "vendido":  false
     },
@@ -1687,7 +1692,12 @@
         "fotos":  [
                       "adegabrast_1.jpg",
                       "adegabrast_2.jpg",
-                      "adegabrast_3.jpg"
+                      "adegabrast_3.jpg",
+                      "adegabrast_4.jpg",
+                      "adegabrast_5.jpg",
+                      "adegabrast_6.jpg",
+                      "adegabrast_7.jpg",
+                      "adegabrast_8.jpg"
                   ],
         "vendido":  false
     },
@@ -1928,7 +1938,7 @@
     },
     {
         "id":  135,
-        "nome":  "Umidificador de ar Britânia, bivolt",
+        "nome":  "Umidificador de ar Britânia bivolt",
         "estado":  "Usado",
         "preco":  80,
         "categoria":  "eletrodomesticos",
@@ -1954,7 +1964,7 @@
     },
     {
         "id":  137,
-        "nome":  "Cama superking box com colchão Simmmons first firme",
+        "nome":  "Cama superking box",
         "estado":  "Usado",
         "preco":  4000,
         "categoria":  "moveis",
