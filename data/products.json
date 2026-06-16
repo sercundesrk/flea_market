@@ -956,7 +956,7 @@
                       "caixa_3.jpg",
                       "caixa_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  66,
@@ -1958,13 +1958,14 @@
         "categoria":  "cozinha",
         "descricao":  "Kit de potes de plástico redondo com tampa de 500ml, ideal para sua cozinha. (Temos 2 kit, um na cor azul e outro na cor vermelho).",
         "fotos":  [
-                      "potes_plastico_1.jpg"
+                      "potes_plastico_1.jpg",
+                      "potes_plastico_2.jpg"
                   ],
         "vendido":  false
     },
     {
         "id":  137,
-        "nome":  "Cama superking box",
+        "nome":  "Cama superking box Simmons",
         "estado":  "Usado",
         "preco":  4000,
         "categoria":  "moveis",
