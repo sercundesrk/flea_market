@@ -990,11 +990,11 @@
     },
     {
         "id":  68,
-        "nome":  "Suporte para copos",
+        "nome":  "Porta-copos",
         "estado":  "Usado",
         "preco":  50,
         "categoria":  "cozinha",
-        "descricao":  "4 suportes para copos com caixa em metal.",
+        "descricao":  "4 porta-copos com caixa em metal.",
         "fotos":  [
                       "supc_1.jpg",
                       "supc_2.jpg",
@@ -1090,7 +1090,7 @@
                       "vasos_3.jpg",
                       "vasos_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  75,
@@ -1180,7 +1180,7 @@
                       "lanterna_3.jpg",
                       "lanterna_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  81,
@@ -1341,7 +1341,7 @@
                       "vas_1.jpg",
                       "vas_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  94,
@@ -1437,7 +1437,7 @@
                       "banqueta_1.jpg",
                       "banqueta_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  101,
@@ -1596,7 +1596,7 @@
                       "temp_2.jpg",
                       "temp_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  112,
@@ -1878,7 +1878,7 @@
                       "chale_3.jpg",
                       "chale_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  131,
