@@ -72,7 +72,7 @@
                       "faqueirob_3.jpg",
                       "faqueirob_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  6,
@@ -237,7 +237,7 @@
                       "vaso_3.jpg",
                       "vaso_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  17,
@@ -515,7 +515,7 @@
         "fotos":  [
                       "berco_1.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  36,
@@ -751,7 +751,7 @@
                       "mochila_3.jpg",
                       "mochila_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  52,
@@ -766,7 +766,7 @@
                       "secador_3.jpg",
                       "secador_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  53,
@@ -913,7 +913,7 @@
                       "caf_3.jpg",
                       "caf_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  63,
@@ -971,7 +971,7 @@
                       "pizza_3.jpg",
                       "pizza_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  67,
@@ -986,7 +986,7 @@
                       "pratop_3.jpg",
                       "pratop_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  68,
@@ -1015,7 +1015,7 @@
                       "protb_3.jpg",
                       "protb_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  70,
@@ -1409,7 +1409,7 @@
                       "manta_3.jpg",
                       "manta_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  99,
@@ -1417,7 +1417,7 @@
         "estado":  "Usado",
         "preco":  50,
         "categoria":  "diversos",
-        "descricao":  "Cesto para roupas de bambu com tampa nas dimensoes 40x30x59cm. Temos 3 unidades.",
+        "descricao":  "Cesto para roupas de bambu com tampa nas dimensoes 40x30x59cm.",
         "fotos":  [
                       "cesto_roupas_1.jpg",
                       "cesto_roupas_2.jpg",
@@ -1541,7 +1541,7 @@
                       "kit_pott_4.jpg",
                       "kit_pott_5.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  108,
@@ -1569,7 +1569,7 @@
                       "quadro_flores_2.jpg",
                       "quadro_flores_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  110,
@@ -1651,7 +1651,7 @@
                       "garrafa_1.jpg",
                       "garrafa_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  116,
@@ -1719,7 +1719,7 @@
                       "poltrona_8.jpg",
                       "poltrona_9.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  120,
@@ -1822,7 +1822,7 @@
                       "geladeira_3.jpg",
                       "geladeira_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  127,
@@ -1863,7 +1863,7 @@
                       "batedeira_1.jpg",
                       "batedeira_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  130,
@@ -1972,6 +1972,21 @@
         "descricao":  "Cama superking box bipartido com colchão Simmmons first firme (2,03 x 1,93), ideal para seu quarto.",
         "fotos":  [
                       "cama_1.jpg"
+                  ],
+        "vendido":  false
+    },
+    {
+        "id":  138,
+        "nome":  "Conjunto de xícaras de café coloridas",
+        "estado":  "Usado",
+        "preco":  50,
+        "categoria":  "moveis",
+        "descricao":  "Bandeja de madeira, 6 xícaras de café e porta xícaras de tecidos coloridos , ideal para sua cozinha.",
+        "fotos":  [
+                      "xx_1.jpg",
+                      "xx_2.jpg",
+                      "xx_3.jpg",
+                      "xx_4.jpg"
                   ],
         "vendido":  false
     }
