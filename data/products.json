@@ -102,7 +102,7 @@
                       "foundue_3.jpg",
                       "foundue_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  8,
@@ -473,7 +473,7 @@
                       "adega_3.jpg",
                       "adega_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  33,
@@ -676,7 +676,7 @@
                       "guilhotina_3.jpg",
                       "guilhotina_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  47,
@@ -941,7 +941,7 @@
                       "vela_3.jpg",
                       "vela_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  65,
@@ -1105,7 +1105,7 @@
                       "vasos2_3.jpg",
                       "vasos2_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  76,
@@ -1424,7 +1424,7 @@
                       "cesto_roupas_3.jpg",
                       "cesto_roupas_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  100,
@@ -1452,7 +1452,7 @@
                       "kit_churras_3.jpg",
                       "kit_churras_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  102,
@@ -1582,7 +1582,7 @@
                       "quadro_flores2_1.jpg",
                       "quadro_flores2_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  111,
@@ -1610,7 +1610,7 @@
                       "oval_2.jpg",
                       "oval_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  113,
@@ -1699,7 +1699,7 @@
                       "adegabrast_7.jpg",
                       "adegabrast_8.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  119,
@@ -1850,7 +1850,7 @@
                       "agua_1.jpg",
                       "agua_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  129,
@@ -1919,7 +1919,7 @@
                       "suporte_1.jpg",
                       "suporte_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  134,
@@ -1988,6 +1988,6 @@
                       "xx_3.jpg",
                       "xx_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     }
 ]
