@@ -406,14 +406,14 @@
         "estado":  "Usado",
         "preco":  150,
         "categoria":  "moveis",
-        "descricao":  "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade (temos 2 unidades).",
+        "descricao":  "Sapateira de madeira com 4 compartimentos, ideal para organizar seus calçados com praticidade.",
         "fotos":  [
                       "sapateira_1.jpg",
                       "sapateira_2.jpg",
                       "sapateira_3.jpg",
                       "sapateira_4.jpg"
                   ],
-        "vendido":  true
+        "vendido":  false
     },
     {
         "id":  29,
