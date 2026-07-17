@@ -132,7 +132,7 @@
                       "xicara_3.jpg",
                       "xicara_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  10,
@@ -313,7 +313,7 @@
                       "vasovidro_4.jpg",
                       "vasovidro_5.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  22,
@@ -398,7 +398,7 @@
                       "pratosbp_4.jpg",
                       "pratosbp_5.jpg"
                   ],
-        "vendido":  false
+        "vendido": true
     },
     {
         "id":  28,
@@ -1379,7 +1379,7 @@
                       "panela_arroz_1.jpg",
                       "panela_arroz_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  97,
@@ -1465,7 +1465,7 @@
                       "kit_americano_1.jpg",
                       "kit_americano_2.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  103,
@@ -1493,7 +1493,7 @@
                       "supla_pano_2.jpg",
                       "supla_pano_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  105,
@@ -1508,7 +1508,7 @@
                       "porta_copos_3.jpg",
                       "porta_copos_4.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  106,
@@ -1525,7 +1525,7 @@
                       "kit_pot_5.jpg",
                       "kit_pot_6.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  107,
@@ -1555,7 +1555,7 @@
                       "kit_pottt_2.jpg",
                       "kit_pottt_3.jpg"
                   ],
-        "vendido":  false
+        "vendido":  true
     },
     {
         "id":  109,
@@ -1734,7 +1734,7 @@
                       "arcondicionado_3.jpg",
                       "arcondicionado_4.jpg"
                   ],
-        "vendido":  false
+        "vendido": true
     },
     {
         "id":  121,
